@@ -1,0 +1,731 @@
+age,birthday,collection_day,contract_until,feet,height,id,joined_in,market_value,name,shirt_number,team_name
+31,13/12/1987,2019/04/25,31.12.2022,direito,189,69400,01/01/2018,3.00,Wéverton,21,Sociedade Esportiva Palmeiras
+37,20/07/1981,2019/04/25,31.12.2020,direito,186,112940,02/10/2014,0.75,Jaílson,42,Sociedade Esportiva Palmeiras
+40,09/07/1978,2019/04/25,31.12.2019,direito,191,31315,01/01/2013,0.5,Fernando Prass,1,Sociedade Esportiva Palmeiras
+20,08/03/1999,2019/04/25,31.07.2019,,,598975,,0.05,Matheus Teixeira,51,Sociedade Esportiva Palmeiras
+25,06/05/1993,2019/04/25,30.06.2019,direito,185,215390,02/08/2018,3.50,Gustavo Gómez,15,Sociedade Esportiva Palmeiras
+25,10/05/1993,2019/04/25,31.03.2022,direito,186,178984,05/04/2017,2.00,Luan,13,Sociedade Esportiva Palmeiras
+26,07/03/1993,2019/04/25,30.06.2023,direito,191,207446,27/07/2018,2.00,Antônio Carlos,25,Sociedade Esportiva Palmeiras
+24,02/01/1995,2019/04/25,30.04.2022,esquerdo,187,383638,16/05/2017,1.00,Juninho,34,Sociedade Esportiva Palmeiras
+37,18/05/1981,2019/04/25,31.12.2019,direito,187,15419,01/01/2016,0.7,Edú Dracena,3,Sociedade Esportiva Palmeiras
+26,17/08/1992,2019/04/25,31.12.2023,esquerdo,179,167724,01/01/2018,2.75,Diogo Barbosa,6,Sociedade Esportiva Palmeiras
+25,23/06/1993,2019/04/25,31.12.2022,esquerdo,180,234538,01/07/2013,2.00,Victor Luis,26,Sociedade Esportiva Palmeiras
+18,02/02/2001,2019/04/25,18.09.2020,esquerdo,187,432166,,,Luan Cândido,36,Sociedade Esportiva Palmeiras
+30,11/12/1988,2019/04/25,31.12.2022,direito,176,75435,10/01/2019,2.50,Marcos Rocha,2,Sociedade Esportiva Palmeiras
+26,10/11/1992,2019/04/25,31.12.2023,direito,178,147361,01/01/2019,2.00,Mayke,12,Sociedade Esportiva Palmeiras
+32,24/06/1986,2019/04/25,31.12.2019,direito,170,69641,15/01/2016,2.00,Jean,17,Sociedade Esportiva Palmeiras
+27,18/11/1991,2019/04/25,31.12.2021,direito,188,271335,11/01/2017,1.25,Fabiano,32,Sociedade Esportiva Palmeiras
+29,05/09/1989,2019/04/25,31.12.2022,direito,181,346922,24/08/2015,1.25,Thiago Santos,5,Sociedade Esportiva Palmeiras
+35,26/06/1983,2019/04/25,31.12.2019,direito,183,35537,01/07/2017,1.00,Felipe Melo,30,Sociedade Esportiva Palmeiras
+23,13/05/1995,2019/04/25,31.12.2020,direito,178,407654,01/10/2015,0.7,Matheus Sales,,Sociedade Esportiva Palmeiras
+19,09/12/1999,2019/04/25,31.12.2022,direito,182,520626,,0.05,Gabriel Furtado,45,Sociedade Esportiva Palmeiras
+29,21/10/1989,2019/04/25,31.12.2023,direito,180,277335,21/06/2017,4.50,Bruno Henrique,19,Sociedade Esportiva Palmeiras
+20,30/06/1998,2019/04/25,31.12.2023,direito,183,351892,01/01/2019,4.00,Matheus Fernandes,35,Sociedade Esportiva Palmeiras
+31,17/03/1988,2019/04/25,31.12.2020,direito,184,128822,01/01/2016,3.50,Moisés,10,Sociedade Esportiva Palmeiras
+23,19/06/1995,2019/04/25,25.12.2021,esquerdo,176,432953,19/12/2016,2.00,Raphael Veiga,23,Sociedade Esportiva Palmeiras
+27,07/01/1992,2019/04/25,31.12.2023,direito,166,114937,11/01/2015,15.00,Dudu,7,Sociedade Esportiva Palmeiras
+24,10/04/1995,2019/04/25,,direito,181,387928,01/01/2016,0.6,Lucas Taylor,,Sociedade Esportiva Palmeiras
+25,05/01/1994,2019/04/25,15.01.2022,esquerdo,177,330085,27/06/2018,8.00,Gustavo Scarpa,14,Sociedade Esportiva Palmeiras
+28,09/07/1990,2019/04/25,31.12.2022,esquerdo,176,232847,01/01/2018,8.00,Lucas Lima,20,Sociedade Esportiva Palmeiras
+25,16/06/1993,2019/04/25,31.12.2023,direito,175,225432,01/01/2019,3.50,Zé Rafael,8,Sociedade Esportiva Palmeiras
+25,25/05/1993,2019/04/25,25.12.2020,direito,174,338861,19/12/2016,1.25,Hyoran,28,Sociedade Esportiva Palmeiras
+33,09/07/1985,2019/04/25,31.12.2019,direito,172,72540,01/01/2017,0.9,Alejandro Guerra,18,Sociedade Esportiva Palmeiras
+21,24/03/1998,2019/04/25,25.04.2021,direito,176,323944,01/01/2017,0.5,Vitinho,,Sociedade Esportiva Palmeiras
+24,06/03/1995,2019/04/25,20.03.2019,esquerdo,171,394417,,0.15,Gabriel Leite,,Sociedade Esportiva Palmeiras
+24,18/04/1995,2019/04/25,31.12.2019,direito,178,327911,01/01/2019,1.50,Felipe Pires,27,Sociedade Esportiva Palmeiras
+22,10/10/1996,2019/04/25,31.12.2023,direito,173,363794,01/01/2019,4.00,Carlos Eduardo,37,Sociedade Esportiva Palmeiras
+27,05/06/1991,2019/04/25,31.12.2019,direito,183,106076,15/01/2019,15.00,Ricardo Goulart,11,Sociedade Esportiva Palmeiras
+26,26/01/1993,2019/04/25,30.06.2021,direito,183,211397,10/02/2017,5.00,Miguel Borja,9,Sociedade Esportiva Palmeiras
+27,08/05/1991,2019/04/25,30.06.2022,esquerdo,187,243541,12/07/2017,4.00,Deyverson,16,Sociedade Esportiva Palmeiras
+32,19/11/1986,2019/04/25,31.12.2021,direito,171,55338,11/01/2017,2.50,Willian,29,Sociedade Esportiva Palmeiras
+21,25/04/1998,2019/04/25,31.12.2023,direito,186,390638,01/01/2019,1.00,Arthur Cabral,39,Sociedade Esportiva Palmeiras
+33,24/06/1985,2019/04/25,31.12.2020,esquerdo,187,42373,16/07/2017,4.00,Diego Alves,1,Clube de Regatas do Flamengo
+27,27/01/1992,2019/04/25,30.04.2022,direito,194,177776,01/01/2013,0.9,César,37,Clube de Regatas do Flamengo
+22,12/06/1996,2019/04/25,31.12.2020,direito,185,294817,01/01/2016,0.1,Thiago da Silva,,Clube de Regatas do Flamengo
+20,03/06/1998,2019/04/25,31.12.2022,direito,188,401535,01/01/2017,0.05,Gabriel Batista,45,Clube de Regatas do Flamengo
+25,17/08/1993,2019/04/25,31.12.2023,direito,183,172054,01/01/2019,6.00,Rodrigo Caio,3,Clube de Regatas do Flamengo
+22,17/07/1996,2019/04/25,31.12.2022,direito,183,312678,01/01/2016,4.00,Léo Duarte,43,Clube de Regatas do Flamengo
+32,11/08/1986,2019/04/25,31.12.2019,direito,193,55322,12/06/2017,1.00,Rhodolfo,44,Clube de Regatas do Flamengo
+40,01/02/1979,2019/04/25,30.04.2019,direito,182,1599,01/01/2016,0.5,Juan,4,Clube de Regatas do Flamengo
+20,10/03/1999,2019/04/25,30.07.2023,direito,185,549815,01/01/2018,0.1,Thuler,26,Clube de Regatas do Flamengo
+20,05/09/1998,2019/04/25,31.12.2019,direito,185,587349,,0.05,Matheus Dantas,55,Clube de Regatas do Flamengo
+21,02/02/1998,2019/04/25,31.12.2022,esquerdo,190,603137,,0.05,Rafael Santos,58,Clube de Regatas do Flamengo
+26,14/09/1992,2019/04/25,31.12.2020,esquerdo,174,212209,06/02/2017,3.00,Renê,6,Clube de Regatas do Flamengo
+26,03/07/1992,2019/04/25,31.12.2019,esquerdo,170,177690,01/01/2017,1.75,Miguel Trauco,13,Clube de Regatas do Flamengo
+27,29/01/1992,2019/04/25,31.12.2022,direito,175,185966,02/01/2016,2.00,Rodinei,2,Clube de Regatas do Flamengo
+33,14/02/1986,2019/04/25,31.12.2019,direito,173,76100,01/01/2016,1.00,Pará,21,Clube de Regatas do Flamengo
+20,02/08/1998,2019/04/25,31.12.2019,direito,163,323868,06/11/2017,0.05,Kléber,31,Clube de Regatas do Flamengo
+26,14/10/1992,2019/04/25,30.06.2022,direito,176,119333,28/01/2016,3.50,Gustavo Cuéllar,8,Clube de Regatas do Flamengo
+24,26/07/1994,2019/04/25,31.12.2022,direito,178,273033,01/08/2018,2.00,Piris da Motta,25,Clube de Regatas do Flamengo
+22,23/10/1996,2019/04/25,31.12.2020,direito,175,405768,01/06/2016,0.5,Ronaldo,16,Clube de Regatas do Flamengo
+21,03/01/1998,2019/04/25,,direito,177,644157,,0.05,Hugo Moura,56,Clube de Regatas do Flamengo
+26,03/12/1992,2019/04/25,31.12.2021,direito,181,210747,01/01/2016,3.00,Willian Arão,5,Clube de Regatas do Flamengo
+24,01/06/1994,2019/04/25,31.12.2023,direito,174,248410,12/01/2019,13.00,Giorgian de Arrascaeta,14,Clube de Regatas do Flamengo
+30,10/04/1989,2019/04/25,31.05.2021,esquerdo,174,52896,20/06/2017,10.00,Éverton Ribeiro,7,Clube de Regatas do Flamengo
+34,28/02/1985,2019/04/25,31.12.2020,direito,173,4248,19/07/2016,4.00,Diego,10,Clube de Regatas do Flamengo
+18,02/01/2001,2019/04/25,02.05.2020,direito,,432161,,0.05,Yuri,57,Clube de Regatas do Flamengo
+17,19/01/2002,2019/04/25,31.12.2021,direito,185,627226,,,Reinier,19,Clube de Regatas do Flamengo
+25,09/10/1993,2019/04/25,31.12.2022,ambos,180,213605,30/07/2018,8.00,Vitinho,11,Clube de Regatas do Flamengo
+21,30/01/1998,2019/04/25,31.12.2020,direito,,644158,,0.05,Lucas Silva,53,Clube de Regatas do Flamengo
+28,30/12/1990,2019/04/25,31.12.2021,direito,184,353108,23/01/2019,4.50,Bruno Henrique,27,Clube de Regatas do Flamengo
+28,14/02/1991,2019/04/25,31.12.2020,direito,182,119197,27/01/2017,2.00,Orlando Berrío,28,Clube de Regatas do Flamengo
+22,30/08/1996,2019/04/25,31.12.2019,esquerdo,178,244275,11/01/2019,13.00,Gabriel Barbosa,9,Clube de Regatas do Flamengo
+18,16/12/2000,2019/04/25,31.12.2023,direito,178,372046,01/01/2017,5.00,Lincoln,29,Clube de Regatas do Flamengo
+31,01/01/1988,2019/04/25,30.06.2021,esquerdo,182,119030,01/07/2018,3.00,Fernando Uribe,20,Clube de Regatas do Flamengo
+18,02/08/2000,2019/04/25,31.12.2020,direito,,589911,,0.05,Wendel,50,Clube de Regatas do Flamengo
+35,01/02/1984,2019/04/25,31.12.2020,direito,195,68727,24/01/2015,2.50,Vanderlei,1,Santos FC
+28,22/07/1990,2019/04/25,31.12.2022,direito,192,106032,22/01/2019,0.9,Éverson,22,Santos FC
+23,29/06/1995,2019/04/25,30.09.2021,direito,188,275412,01/07/2014,0.05,João Paulo,34,Santos FC
+23,02/07/1995,2019/04/25,30.06.2022,direito,188,411662,01/01/2016,5.00,Lucas Veríssimo,28,Santos FC
+26,24/03/1993,2019/04/25,31.01.2020,direito,196,208681,01/07/2012,2.50,Gustavo Henrique,6,Santos FC
+26,20/01/1993,2019/04/25,21.01.2021,direito,190,260377,18/01/2019,2.00,Felipe Aguilar,26,Santos FC
+28,05/12/1990,2019/04/25,30.01.2022,direito,186,226009,01/02/2017,1.25,Cléber Reis,,Santos FC
+25,09/09/1993,2019/04/25,30.09.2022,direito,187,373150,19/02/2016,0.9,Luiz Felipe,2,Santos FC
+23,28/03/1996,2019/04/25,30.06.2019,esquerdo,184,345084,28/03/2019,3.00,Jorge,,Santos FC
+21,15/02/1998,2019/04/25,31.12.2021,esquerdo,175,587786,01/03/2019,0.9,Felipe Jonatan,,Santos FC
+23,24/05/1995,2019/04/25,31.05.2019,esquerdo,180,525472,01/07/2015,0.5,Orinho,15,Santos FC
+31,14/01/1988,2019/04/25,31.12.2020,direito,174,153905,25/06/2014,3.00,Victor Ferraz,4,Santos FC
+26,23/02/1993,2019/04/25,31.12.2020,direito,178,373299,01/01/2017,0.5,Matheus Ribeiro,14,Santos FC
+18,28/02/2001,2019/04/25,29.02.2020,direito,187,633377,,0.05,Kaique Rocha,13,Santos FC
+26,01/03/1993,2019/04/25,31.12.2022,direito,182,167825,01/08/2013,2.50,Alison,5,Santos FC
+26,15/08/1992,2019/04/25,31.05.2021,esquerdo,175,546000,01/06/2018,1.50,Diego Pituca,21,Santos FC
+24,05/08/1994,2019/04/25,31.12.2021,direito,182,446408,01/01/2018,0.5,Yuri,25,Santos FC
+23,13/09/1995,2019/04/25,31.12.2024,direito,185,519875,16/04/2019,0.075,Jobson,,Santos FC
+20,12/07/1998,2019/04/25,31.12.2023,,177,401531,01/01/2018,0.05,Guilherme,18,Santos FC
+25,15/10/1993,2019/04/25,30.06.2022,esquerdo,172,215212,09/06/2016,2.00,Jean Mota,41,Santos FC
+20,22/06/1998,2019/04/25,31.12.2019,direito,181,578872,07/02/2019,0.5,Jean Lucas,30,Santos FC
+16,30/08/2002,2019/04/25,31.01.2020,direito,170,574768,,0.05,Sandry,31,Santos FC
+34,02/12/1984,2019/04/25,30.06.2021,direito,170,74373,24/07/2018,1.50,Carlos Sánchez,7,Santos FC
+27,23/11/1991,2019/04/25,30.01.2020,direito,169,95280,07/02/2019,5.00,Christian Cueva,8,Santos FC
+33,18/08/1985,2019/04/25,31.12.2020,esquerdo,188,39642,11/07/2018,1.50,Bryan Ruíz,22,Santos FC
+19,21/05/1999,2019/04/25,30.06.2021,esquerdo,,634815,,0.05,Anderson Ceará,26,Santos FC
+18,09/01/2001,2019/04/25,31.12.2022,direito,173,412363,21/07/2017,40.00,Rodrygo,9,Santos FC
+25,20/03/1994,2019/04/25,30.06.2020,direito,172,182577,31/07/2018,4.00,Derlis González,17,Santos FC
+21,30/06/1997,2019/04/25,31.12.2022,direito,158,312294,12/01/2019,2.50,Yeferson Soteldo,10,Santos FC
+31,23/01/1988,2019/04/25,30.06.2021,esquerdo,187,123508,01/07/2016,2.00,Jonathan Copete,36,Santos FC
+20,03/07/1998,2019/04/25,31.12.2021,direito,174,401534,01/01/2017,1.00,Arthur Gomes,23,Santos FC
+27,24/02/1992,2019/04/25,31.12.2022,direito,173,162883,19/04/2018,3.00,Eduardo Sasha,27,Santos FC
+22,11/02/1997,2019/04/25,16.02.2021,direito,170,440527,01/01/2018,0.1,Diogo Vitor,40,Santos FC
+18,18/03/2001,2019/04/25,31.07.2020,direito,183,489893,01/11/2017,3.00,Yuri Alberto,29,Santos FC
+20,04/10/1998,2019/04/25,30.10.2023,direito,187,596067,01/01/2019,0.1,Fellipe Cardoso,20,Santos FC
+17,24/01/2002,2019/04/25,31.12.2021,,176,620477,,0.05,Kaio Jorge,26,Santos FC
+32,02/09/1986,2019/04/25,31.12.2020,direito,191,52647,03/01/2019,2.00,Júlio César,22,Grêmio Foot-Ball Porto Alegrense
+32,12/01/1987,2019/04/25,31.12.2020,esquerdo,187,67886,13/07/2017,0.9,Paulo Victor,1,Grêmio Foot-Ball Porto Alegrense
+20,01/04/1999,2019/04/25,,,188,555016,01/01/2019,0.05,Brenno,24,Grêmio Foot-Ball Porto Alegrense
+20,08/02/1999,2019/04/25,,direito,185,608218,,,Phelipe,18,Grêmio Foot-Ball Porto Alegrense
+33,21/09/1985,2019/04/25,31.12.2021,direito,190,32568,01/01/2016,5.00,Pedro Geromel,3,Grêmio Foot-Ball Porto Alegrense
+28,14/03/1991,2019/04/25,31.12.2022,esquerdo,184,145400,15/07/2016,5.00,Wálter Kannemann,4,Grêmio Foot-Ball Porto Alegrense
+32,29/03/1987,2019/04/25,31.12.2019,esquerdo,184,52844,01/01/2015,1.00,Marcelo Oliveira,26,Grêmio Foot-Ball Porto Alegrense
+30,16/08/1988,2019/04/25,31.12.2020,direito,184,80499,05/01/2018,1.00,Paulo Miranda,28,Grêmio Foot-Ball Porto Alegrense
+21,10/10/1997,2019/04/25,31.12.2019,direito,188,445101,,0.2,Rodrigues,38,Grêmio Foot-Ball Porto Alegrense
+30,28/02/1989,2019/04/25,31.12.2019,direito,191,216071,01/01/2015,0.1,Gabriel,89,Grêmio Foot-Ball Porto Alegrense
+32,11/03/1987,2019/04/25,31.12.2021,esquerdo,179,182216,30/01/2017,1.75,Bruno Cortez,12,Grêmio Foot-Ball Porto Alegrense
+21,06/07/1997,2019/04/25,30.06.2019,esquerdo,176,406676,24/07/2018,0.9,Juninho Capixaba,29,Grêmio Foot-Ball Porto Alegrense
+19,18/05/1999,2019/04/25,30.05.2020,esquerdo,180,552548,,0.1,Guilherme Guedes,36,Grêmio Foot-Ball Porto Alegrense
+22,30/06/1996,2019/04/25,31.12.2021,direito,178,347016,16/01/2017,0.9,Léo Gomes,6,Grêmio Foot-Ball Porto Alegrense
+27,30/10/1991,2019/04/25,09.01.2021,direito,176,124701,08/03/2019,0.9,Rafael Galhardo,42,Grêmio Foot-Ball Porto Alegrense
+40,23/10/1978,2019/04/25,31.12.2019,direito,176,29368,16/01/2017,0.5,Léo Moura,2,Grêmio Foot-Ball Porto Alegrense
+19,29/09/1999,2019/04/25,,,,555012,,0.05,Felipe Felippi,35,Grêmio Foot-Ball Porto Alegrense
+29,22/03/1990,2019/04/25,31.12.2020,ambos,175,435186,01/01/2018,1.50,Michel,5,Grêmio Foot-Ball Porto Alegrense
+28,19/09/1990,2019/04/25,31.12.2019,direito,187,140682,03/01/2019,1.00,Rômulo,13,Grêmio Foot-Ball Porto Alegrense
+33,14/09/1985,2019/04/25,31.12.2021,direito,184,50047,01/01/2016,1.75,Maicon,8,Grêmio Foot-Ball Porto Alegrense
+21,19/12/1997,2019/04/25,31.12.2022,direito,175,552549,02/03/2018,0.9,Matheus Henrique,32,Grêmio Foot-Ball Porto Alegrense
+23,12/05/1995,2019/04/25,31.12.2019,direito,182,392487,08/01/2018,0.4,Thaciano,16,Grêmio Foot-Ball Porto Alegrense
+23,16/07/1995,2019/04/25,,ambos,183,405726,01/01/2016,0.2,Felipe Tontini,35,Grêmio Foot-Ball Porto Alegrense
+21,16/04/1998,2019/04/25,,direito,179,570582,01/01/2019,,Darlan Mendes,37,Grêmio Foot-Ball Porto Alegrense
+25,21/07/1993,2019/04/25,31.12.2019,direito,173,267420,06/01/2019,3.00,Walter Montoya,20,Grêmio Foot-Ball Porto Alegrense
+22,22/04/1997,2019/04/25,,esquerdo,,627099,,0.05,Isaque,40,Grêmio Foot-Ball Porto Alegrense
+20,07/05/1998,2019/04/25,31.12.2021,direito,183,351903,23/07/2018,0.9,Jean Pyerre,21,Grêmio Foot-Ball Porto Alegrense
+21,27/12/1997,2019/04/25,31.12.2022,esquerdo,184,561214,03/01/2019,0.9,Thonny Anderson,27,Grêmio Foot-Ball Porto Alegrense
+20,07/11/1998,2019/04/25,31.12.2019,esquerdo,178,351738,01/02/2015,0.5,Lincoln,17,Grêmio Foot-Ball Porto Alegrense
+23,22/03/1996,2019/04/25,31.12.2022,direito,174,321239,01/01/2014,15.00,Everton,11,Grêmio Foot-Ball Porto Alegrense
+25,25/06/1993,2019/04/25,31.12.2021,direito,174,229736,02/01/2018,2.50,Alisson,23,Grêmio Foot-Ball Porto Alegrense
+22,24/02/1997,2019/04/25,31.12.2022,direito,175,520662,01/01/2018,0.9,Pepê,25,Grêmio Foot-Ball Porto Alegrense
+28,29/05/1990,2019/04/25,31.12.2021,esquerdo,176,74758,28/06/2018,1.25,Marinho,30,Grêmio Foot-Ball Porto Alegrense
+22,03/12/1996,2019/04/25,,esquerdo,174,553470,01/01/2018,0.05,Vico,15,Grêmio Foot-Ball Porto Alegrense
+26,27/03/1993,2019/04/25,31.12.2020,direito,180,313106,01/01/2014,18.00,Luan,7,Grêmio Foot-Ball Porto Alegrense
+33,10/05/1985,2019/04/25,31.12.2021,direito,178,37536,12/02/2019,5.00,Diego Tardelli,9,Grêmio Foot-Ball Porto Alegrense
+28,27/09/1990,2019/04/25,31.12.2021,direito,184,104509,22/02/2019,2.75,André,90,Grêmio Foot-Ball Porto Alegrense
+22,12/03/1997,2019/04/25,31.12.2019,esquerdo,184,425462,12/01/2019,1.50,Felipe Vizeu,47,Grêmio Foot-Ball Porto Alegrense
+28,19/12/1990,2019/04/25,31.12.2019,direito,188,227671,01/01/2019,3.00,Tiago Volpi,23,São Paulo Futebol Clube
+23,26/10/1995,2019/04/25,31.12.2022,esquerdo,188,371231,01/01/2018,1.50,Jean,1,São Paulo Futebol Clube
+21,07/12/1997,2019/04/25,31.12.2019,direito,193,407841,01/01/2018,0.05,Lucas Paes,40,São Paulo Futebol Clube
+20,10/08/1998,2019/04/25,,,,650517,,0.05,Júnior,41,São Paulo Futebol Clube
+27,22/10/1991,2019/04/25,30.06.2022,direito,187,139867,05/07/2017,2.50,Robert Arboleda,5,São Paulo Futebol Clube
+28,16/04/1991,2019/04/25,31.12.2020,direito,185,177534,22/08/2017,2.00,Bruno Alves,3,São Paulo Futebol Clube
+31,21/08/1987,2019/04/25,31.12.2020,direito,184,68832,10/01/2018,1.00,Anderson Martins,4,São Paulo Futebol Clube
+23,23/03/1996,2019/04/25,30.06.2019,direito,185,270191,01/01/2014,0.9,Lucão,,São Paulo Futebol Clube
+23,16/03/1996,2019/04/25,31.12.2022,direito,186,435489,,0.05,Lucas Kal,32,São Paulo Futebol Clube
+20,17/06/1998,2019/04/25,,,,631785,,0.05,Rodrigo,34,São Paulo Futebol Clube
+20,02/02/1999,2019/04/25,,direito,188,574903,19/02/2019,,Walce,,São Paulo Futebol Clube
+29,28/09/1989,2019/04/25,31.12.2020,esquerdo,178,225617,01/01/2014,3.00,Reinaldo,6,São Paulo Futebol Clube
+23,06/01/1996,2019/04/25,31.12.2022,esquerdo,183,403296,01/01/2019,1.50,Léo,16,São Paulo Futebol Clube
+32,21/05/1986,2019/04/25,31.12.2019,esquerdo,180,74314,01/01/2018,0.9,Edimar,36,São Paulo Futebol Clube
+29,01/03/1990,2019/04/25,31.12.2019,direito,179,148751,16/07/2018,6.00,Bruno Peres,20,São Paulo Futebol Clube
+22,01/04/1997,2019/04/25,31.12.2019,direito,174,552240,01/01/2019,0.5,Igor Vinícius,2,São Paulo Futebol Clube
+31,06/04/1988,2019/04/25,31.12.2021,direito,186,110326,01/01/2018,4.00,Jucilei,8,São Paulo Futebol Clube
+21,07/02/1998,2019/04/25,30.04.2023,esquerdo,175,401526,01/01/2018,2.50,Liziero,14,São Paulo Futebol Clube
+31,30/01/1988,2019/04/25,31.12.2019,direito,179,54257,01/04/2014,1.50,Húdson,25,São Paulo Futebol Clube
+29,06/06/1989,2019/04/25,31.12.2019,direito,176,71080,03/01/2019,1.25,Willian Farias,17,São Paulo Futebol Clube
+19,14/05/1999,2019/04/25,31.12.2022,direito,175,574904,01/07/2018,0.5,Luan Santos,13,São Paulo Futebol Clube
+26,30/08/1992,2019/04/25,31.12.2022,ambos,175,364261,31/03/2019,5.00,Tchê Tchê,28,São Paulo Futebol Clube
+19,25/04/2000,2019/04/25,30.04.2023,esquerdo,175,412365,26/09/2018,0.05,Helinho,11,São Paulo Futebol Clube
+24,05/09/1994,2019/04/25,31.12.2020,ambos,185,390368,03/04/2019,2.00,Vitor Bueno,,São Paulo Futebol Clube
+21,28/07/1997,2019/04/25,31.12.2019,direito,171,419420,07/08/2018,2.00,Everton Felipe,18,São Paulo Futebol Clube
+33,29/05/1985,2019/04/25,31.12.2021,ambos,180,52897,01/01/2019,1.50,Hernanes,15,São Paulo Futebol Clube
+29,21/12/1989,2019/04/25,28.06.2020,direito,173,84377,01/07/2017,1.50,Jonathan Gómez,27,São Paulo Futebol Clube
+37,19/07/1981,2019/04/25,31.12.2019,esquerdo,181,29091,29/01/2018,1.25,Nenê,10,São Paulo Futebol Clube
+20,17/03/1999,2019/04/25,30.03.2023,,183,553459,01/01/2019,0.05,Igor Gomes,26,São Paulo Futebol Clube
+30,11/12/1988,2019/04/25,30.06.2021,esquerdo,173,76120,17/04/2018,3.50,Éverton,22,São Paulo Futebol Clube
+29,14/06/1989,2019/04/25,04.07.2020,direito,174,92729,07/07/2018,2.50,Joao Rojas,7,São Paulo Futebol Clube
+19,30/05/1999,2019/04/25,,esquerdo,177,575375,02/03/2019,,Jonas Toró,44,São Paulo Futebol Clube
+19,24/02/2000,2019/04/25,30.09.2023,esquerdo,172,602105,01/01/2019,5.00,Antony,39,São Paulo Futebol Clube
+24,22/11/1994,2019/04/25,31.12.2022,direito,164,252908,02/01/2019,1.75,Biro Biro,21,São Paulo Futebol Clube
+29,02/09/1989,2019/04/25,31.12.2022,direito,180,37579,27/03/2019,9.00,Alexandre Pato,,São Paulo Futebol Clube
+26,23/06/1992,2019/04/25,31.12.2022,direito,185,148765,01/01/2019,4.50,Pablo,12,São Paulo Futebol Clube
+23,12/09/1995,2019/04/25,31.03.2021,esquerdo,194,403014,02/04/2018,1.25,Gonzalo Carneiro,19,São Paulo Futebol Clube
+19,16/01/2000,2019/04/25,31.12.2020,direito,175,412366,01/05/2017,1.00,Brenner,30,São Paulo Futebol Clube
+31,06/06/1987,2019/04/25,31.12.2022,direito,195,50144,01/01/2012,3.50,Cássio,12,Sport Club Corinthians Paulista
+31,18/11/1987,2019/04/25,31.12.2019,direito,188,269860,01/05/2013,0.9,Walter,27,Sport Club Corinthians Paulista
+23,03/06/1995,2019/04/25,31.12.2020,direito,186,408850,01/02/2016,0.1,Caíque França,1,Sport Club Corinthians Paulista
+21,31/01/1998,2019/04/25,31.01.2020,direito,194,403346,01/01/2018,0.05,Filipe,40,Sport Club Corinthians Paulista
+32,14/10/1986,2019/04/25,31.12.2020,direito,185,52513,26/01/2018,2.50,Henrique,3,Sport Club Corinthians Paulista
+19,10/09/1999,2019/04/25,31.12.2023,direito,184,552912,28/02/2019,2.00,Bruno Méndez,,Sport Club Corinthians Paulista
+29,26/02/1990,2019/04/25,31.12.2019,direito,181,113586,16/01/2019,1.75,Manoel,4,Sport Club Corinthians Paulista
+23,02/10/1995,2019/04/25,31.12.2021,direito,188,329720,,0.9,Pedro Henrique,34,Sport Club Corinthians Paulista
+27,16/04/1992,2019/04/25,31.12.2021,direito,184,166032,19/02/2018,0.6,Marllon,13,Sport Club Corinthians Paulista
+29,09/06/1989,2019/04/25,30.06.2019,esquerdo,185,140748,16/07/2018,1.50,Danilo Avelar,35,Sport Club Corinthians Paulista
+20,07/01/1999,2019/04/25,31.12.2021,esquerdo,184,585982,,0.1,Carlos Augusto,6,Sport Club Corinthians Paulista
+29,11/06/1989,2019/04/25,31.12.2022,direito,168,47592,09/01/2015,6.00,Fágner,23,Sport Club Corinthians Paulista
+29,15/02/1990,2019/04/25,31.12.2021,direito,177,77262,01/01/2019,1.50,Míchel,2,Sport Club Corinthians Paulista
+26,10/07/1992,2019/04/25,31.12.2020,direito,172,213606,13/01/2017,4.00,Gabriel,5,Sport Club Corinthians Paulista
+30,10/03/1989,2019/04/25,31.12.2021,direito,183,144789,02/02/2019,2.00,Júnior Urso,30,Sport Club Corinthians Paulista
+25,18/02/1994,2019/04/25,31.12.2022,direito,191,530737,01/01/2019,1.50,Richard,26,Sport Club Corinthians Paulista
+34,09/06/1984,2019/04/25,31.12.2020,direito,184,99903,17/02/2018,0.9,Ralf,15,Sport Club Corinthians Paulista
+29,16/06/1989,2019/04/25,31.12.2020,direito,180,137726,04/01/2018,1.00,Renê Júnior,8,Sport Club Corinthians Paulista
+22,11/04/1997,2019/04/25,31.12.2022,direito,180,583064,03/04/2019,0.4,Thiaguinho,20,Sport Club Corinthians Paulista
+25,22/05/1993,2019/04/25,31.12.2022,direito,169,258070,01/01/2019,4.50,Ramiro,28,Sport Club Corinthians Paulista
+22,06/01/1997,2019/04/25,30.06.2019,direito,182,403148,30/07/2018,4.00,Ángelo Araos,16,Sport Club Corinthians Paulista
+25,28/01/1994,2019/04/25,31.12.2022,direito,166,189488,08/01/2019,3.50,Júnior Sornoza,7,Sport Club Corinthians Paulista
+21,12/02/1998,2019/04/25,31.12.2021,direito,175,408958,16/01/2018,2.50,Mateus Vital,22,Sport Club Corinthians Paulista
+35,05/10/1983,2019/04/25,31.12.2020,ambos,169,29261,06/02/2017,1.50,Jádson,10,Sport Club Corinthians Paulista
+26,30/11/1992,2019/04/25,31.12.2019,esquerdo,170,272554,01/03/2019,1.25,Régis,18,Sport Club Corinthians Paulista
+23,27/03/1996,2019/04/25,31.12.2019,direito,179,215149,,0.05,Rodrigo Figueiredo,,Sport Club Corinthians Paulista
+24,19/03/1995,2019/04/25,31.12.2021,direito,166,392809,22/05/2017,2.00,Clayson,25,Sport Club Corinthians Paulista
+21,05/03/1998,2019/04/25,31.12.2019,direito,170,340179,30/07/2018,1.00,Sergio Díaz,21,Sport Club Corinthians Paulista
+22,26/01/1997,2019/04/25,31.06.2019,esquerdo,174,582301,,,Marquinhos,33,Sport Club Corinthians Paulista
+21,13/04/1998,2019/04/25,31.12.2020,esquerdo,172,515208,01/01/2017,15.00,Pedrinho,38,Sport Club Corinthians Paulista
+26,04/07/1992,2019/04/25,14.07.2019,direito,176,262262,05/06/2014,3.50,Ángel Romero,11,Sport Club Corinthians Paulista
+22,21/04/1997,2019/04/25,31.12.2022,esquerdo,179,519851,01/01/2019,0.5,André Luis,29,Sport Club Corinthians Paulista
+33,22/05/1985,2019/04/25,30.12.2020,direito,185,40822,03/01/2019,1.75,Mauro Boselli,17,Sport Club Corinthians Paulista
+34,11/06/1984,2019/04/25,31.12.2020,ambos,172,18829,25/01/2019,1.00,Vágner Love,9,Sport Club Corinthians Paulista
+25,29/03/1994,2019/04/25,31.12.2022,direito,188,333913,31/08/2016,0.8,Gustavo,19,Sport Club Corinthians Paulista
+20,26/06/1998,2019/04/25,31.12.2022,direito,187,541048,21/02/2018,0.1,Matheus Matias,,Sport Club Corinthians Paulista
+31,03/04/1988,2019/04/25,08.05.2020,direito,189,99439,12/05/2016,2.50,Danilo Fernandes,1,Sport Club Internacional
+32,18/12/1986,2019/04/25,31.12.2021,direito,188,53015,15/07/2016,2.00,Marcelo Lomba,12,Sport Club Internacional
+24,06/05/1994,2019/04/25,31.12.2021,,188,530421,01/01/2017,0.1,Daniel,42,Sport Club Internacional
+22,29/10/1996,2019/04/25,31.12.2019,,193,417084,,0.05,Keiller,32,Sport Club Internacional
+20,09/10/1998,2019/04/25,30.06.2021,direito,195,641458,01/01/2018,0.05,Carlos Miguel,43,Sport Club Internacional
+30,19/11/1988,2019/04/25,30.06.2022,esquerdo,187,104326,02/03/2017,4.50,Víctor Cuesta,15,Sport Club Internacional
+31,27/10/1987,2019/04/25,31.07.2021,direito,188,119434,06/02/2018,2.50,Rodrigo Moledo,4,Sport Club Internacional
+24,05/04/1995,2019/04/25,31.12.2019,direito,184,382171,18/07/2018,1.00,Emerson Santos,20,Sport Club Internacional
+25,11/01/1994,2019/04/25,31.12.2020,direito,187,484599,01/01/2018,0.8,Klaus,44,Sport Club Internacional
+20,03/06/1998,2019/04/25,,direito,188,641457,02/01/2019,,Roberto,40,Sport Club Internacional
+20,01/04/1999,2019/04/25,31.12.2022,direito,191,563692,02/01/2019,,Bruno Fuchs,45,Sport Club Internacional
+22,23/03/1997,2019/04/25,31.06.2021,esquerdo,181,520468,01/01/2017,2.00,Iago,28,Sport Club Internacional
+30,08/10/1988,2019/04/25,31.12.2019,esquerdo,179,74747,11/01/2017,1.50,Uendel,6,Sport Club Internacional
+24,16/05/1994,2019/04/25,30.06.2022,direito,169,325196,23/04/2018,1.50,Zeca,37,Sport Club Internacional
+33,30/08/1985,2019/04/25,31.12.2019,direito,180,55497,10/01/2019,0.9,Bruno,2,Sport Club Internacional
+21,30/05/1997,2019/04/25,31.12.2021,direito,172,476362,01/01/2018,0.3,Dudu,27,Sport Club Internacional
+24,17/06/1994,2019/04/25,31.12.2020,direito,186,181780,01/01/2015,6.00,Rodrigo Dourado,13,Sport Club Internacional
+29,06/06/1989,2019/04/25,31.12.2020,direito,182,186922,10/01/2019,3.00,Rodrigo Lindoso,19,Sport Club Internacional
+28,27/01/1991,2019/04/25,30.06.2019,direito,175,128932,12/03/2018,2.50,Rithely,16,Sport Club Internacional
+26,29/07/1992,2019/04/25,31.12.2022,esquerdo,176,333159,01/01/2018,4.00,Patrick,88,Sport Club Internacional
+29,18/12/1989,2019/04/25,30.06.2021,direito,175,169052,01/07/2018,3.50,Edenilson,8,Sport Club Internacional
+27,13/03/1992,2019/04/25,31.12.2020,direito,179,378975,07/01/2019,1.25,Matheus Galdezani,25,Sport Club Internacional
+33,09/03/1986,2019/04/25,31.12.2020,direito,174,74286,19/07/2017,1.25,Camilo,21,Sport Club Internacional
+38,15/04/1981,2019/04/25,31.12.2019,esquerdo,174,3445,01/07/2008,0.9,Andrés D'Alessandro,10,Sport Club Internacional
+21,20/07/1997,2019/04/25,,esquerdo,180,505002,01/07/2018,0.05,Martín Sarrafiore,29,Sport Club Internacional
+21,03/03/1998,2019/04/25,,,174,546172,,0.05,Nonato,33,Sport Club Internacional
+19,11/10/1999,2019/04/25,31.12.2021,direito,176,574949,01/01/2018,0.05,Richard,49,Sport Club Internacional
+25,22/12/1993,2019/04/25,31.05.2021,esquerdo,180,199472,08/05/2017,3.50,William Pottker,99,Sport Club Internacional
+25,17/02/1994,2019/04/25,30.06.2020,direito,166,264284,01/01/2019,3.00,Neílton,17,Sport Club Internacional
+26,06/01/1993,2019/04/25,31.07.2020,direito,170,121990,05/01/2018,0.9,Wellington Silva,11,Sport Club Internacional
+23,19/09/1995,2019/04/25,31.12.2019,direito,176,393830,01/01/2019,0.5,Guilherme Parede,77,Sport Club Internacional
+25,01/10/1993,2019/04/25,17.07.2020,esquerdo,179,185593,20/07/2016,3.00,Nicolás López,7,Sport Club Internacional
+35,01/01/1984,2019/04/25,31.08.2021,direito,185,2989,12/08/2018,3.00,Paolo Guerrero,9,Sport Club Internacional
+30,31/05/1988,2019/04/25,30.06.2019,direito,183,248105,16/07/2018,1.75,Jonatan Álvez,86,Sport Club Internacional
+29,17/01/1990,2019/04/25,31.12.2019,direito,185,142216,16/01/2019,1.25,Santiago Tréllez,22,Sport Club Internacional
+33,17/06/1985,2019/04/25,31.12.2019,direito,175,27376,05/01/2019,1.25,Rafael Sóbis,23,Sport Club Internacional
+29,23/06/1989,2019/04/25,31.12.2021,esquerdo,192,68097,01/01/2008,0.9,Rafael,12,Cruzeiro Esporte Clube
+38,30/09/1980,2019/04/25,31.12.2019,direito,188,22415,01/01/2005,0.75,Fábio,1,Cruzeiro Esporte Clube
+20,21/10/1998,2019/04/25,,direito,195,590039,,0.05,Vitor Eudes,39,Cruzeiro Esporte Clube
+30,01/07/1988,2019/04/25,31.12.2021,direito,192,113094,01/04/2013,3.50,Dedé,26,Cruzeiro Esporte Clube
+31,30/01/1988,2019/04/25,31.12.2019,direito,186,55245,01/08/2010,2.50,Léo,3,Cruzeiro Esporte Clube
+22,27/03/1997,2019/04/25,,direito,188,458710,01/01/2017,1.00,Murilo Cerqueira,4,Cruzeiro Esporte Clube
+23,12/02/1996,2019/04/25,31.12.2021,direito,192,432773,01/01/2016,0.9,Fabrício Bruno,25,Cruzeiro Esporte Clube
+20,25/04/1999,2019/04/25,,direito,185,603122,,0.1,Cacá,14,Cruzeiro Esporte Clube
+32,16/06/1986,2019/04/25,31.12.2020,esquerdo,177,54419,01/01/2018,2.50,Egídio,6,Cruzeiro Esporte Clube
+27,06/02/1992,2019/04/25,31.12.2019,esquerdo,177,109038,23/01/2019,2.25,Dodô,18,Cruzeiro Esporte Clube
+27,28/03/1992,2019/04/25,30.06.2019,esquerdo,176,224863,10/05/2016,0.6,Bryan,,Cruzeiro Esporte Clube
+28,28/09/1990,2019/04/25,30.09.2019,,181,346062,19/09/2014,0.4,Breno Lopes,,Cruzeiro Esporte Clube
+21,05/12/1997,2019/04/25,,esquerdo,177,445102,01/01/2018,0.1,Victor Luiz,,Cruzeiro Esporte Clube
+21,05/02/1998,2019/04/25,,esquerdo,180,625617,,,Rafael Santos,36,Cruzeiro Esporte Clube
+23,20/08/1995,2019/04/25,30.06.2022,direito,180,331057,04/01/2019,1.50,Luis Manuel Orejuela,28,Cruzeiro Esporte Clube
+32,27/07/1986,2019/04/25,31.12.2020,direito,177,75083,02/01/2018,1.25,Edílson,2,Cruzeiro Esporte Clube
+25,18/04/1994,2019/04/25,03.02.2021,direito,167,242201,02/02/2016,2.50,Lucas Romero,29,Cruzeiro Esporte Clube
+33,16/05/1985,2019/04/25,31.12.2019,direito,180,54303,01/01/2013,2.00,Henrique,8,Cruzeiro Esporte Clube
+31,11/09/1987,2019/04/25,31.12.2020,esquerdo,187,53472,05/08/2015,1.50,Ariel Cabral,5,Cruzeiro Esporte Clube
+19,07/07/1999,2019/04/25,,direito,183,607854,,0.1,Éderson,15,Cruzeiro Esporte Clube
+26,16/02/1993,2019/04/25,30.06.2019,direito,181,218118,31/01/2017,2.00,Lucas Silva,16,Cruzeiro Esporte Clube
+25,30/08/1993,2019/04/25,31.12.2021,direito,171,205179,03/01/2019,1.75,Jádson,27,Cruzeiro Esporte Clube
+19,23/12/1999,2019/04/25,,direito,176,625619,,,Michel Borges,37,Cruzeiro Esporte Clube
+31,10/11/1987,2019/04/25,31.12.2019,direito,170,75833,26/04/2016,2.00,Robinho,19,Cruzeiro Esporte Clube
+28,21/07/1990,2019/04/25,31.12.2021,esquerdo,174,100091,18/01/2019,1.75,Marquinhos Gabriel,20,Cruzeiro Esporte Clube
+31,27/03/1988,2019/04/25,31.12.2021,direito,177,77059,23/01/2019,5.00,Rodriguinho,23,Cruzeiro Esporte Clube
+34,27/02/1985,2019/04/25,31.12.2020,esquerdo,176,53262,05/01/2017,3.50,Thiago Neves,10,Cruzeiro Esporte Clube
+25,25/10/1993,2019/04/25,,esquerdo,169,410494,01/07/2015,0.1,Luiz Fernando,,Cruzeiro Esporte Clube
+24,01/10/1994,2019/04/25,31.12.2019,direito,175,362844,02/04/2019,2.50,Pedro Rocha,32,Cruzeiro Esporte Clube
+23,17/10/1995,2019/04/25,31.12.2022,direito,179,373189,02/01/2018,1.50,David,11,Cruzeiro Esporte Clube
+35,04/08/1983,2019/04/25,31.12.2019,direito,167,52894,12/07/2016,0.9,Rafinha,7,Cruzeiro Esporte Clube
+25,11/01/1994,2019/04/25,30.06.2020,direito,174,218353,20/06/2017,3.00,Sassá,99,Cruzeiro Esporte Clube
+35,03/10/1983,2019/04/25,31.12.2020,ambos,185,31005,01/01/2018,2.50,Fred,9,Cruzeiro Esporte Clube
+22,11/06/1996,2019/04/25,31.12.2022,direito,184,349583,25/01/2017,1.50,Raniel,17,Cruzeiro Esporte Clube
+36,21/01/1983,2019/04/25,31.12.2020,esquerdo,193,67867,01/07/2012,2.00,Victor,1,Clube Atlético Mineiro
+24,28/04/1994,2019/04/25,30.08.2019,direito,186,181777,01/01/2014,0.5,Uilson,32,Clube Atlético Mineiro
+24,08/04/1995,2019/04/25,,direito,194,579207,,0.05,Michael,31,Clube Atlético Mineiro
+21,01/08/1997,2019/04/25,,,,597588,,0.05,Fernando,33,Clube Atlético Mineiro
+21,19/08/1997,2019/04/25,31.12.2022,direito,190,468247,01/01/2016,0.05,Cleiton,40,Clube Atlético Mineiro
+23,28/04/1995,2019/04/25,31.12.2022,direito,190,341701,04/01/2019,3.00,Igor Rabello,16,Clube Atlético Mineiro
+34,04/01/1985,2019/04/25,31.12.2021,direito,192,72489,01/01/2019,2.00,Réver,4,Clube Atlético Mineiro
+23,06/02/1996,2019/04/25,,direito,195,348261,01/01/2019,1.50,Iago Maidana,19,Clube Atlético Mineiro
+39,22/06/1979,2019/04/25,,direito,192,54503,01/01/2011,0.5,Leonardo Silva,3,Clube Atlético Mineiro
+24,14/09/1994,2019/04/25,,direito,188,371522,01/05/2017,0.05,Matheus Mancini,15,Clube Atlético Mineiro
+19,14/03/2000,2019/04/25,,,185,468299,,0.05,Matheus Stockl,35,Clube Atlético Mineiro
+21,13/11/1997,2019/04/25,30.06.2019,direito,180,565818,11/08/2018,0.05,Martín Rea,38,Clube Atlético Mineiro
+33,16/09/1985,2019/04/25,31.12.2020,esquerdo,179,13835,20/06/2016,2.50,Fábio Santos,6,Clube Atlético Mineiro
+19,30/04/1999,2019/04/25,31.12.2022,esquerdo,175,589862,02/07/2018,0.1,Carlos Gabriel,22,Clube Atlético Mineiro
+30,25/03/1989,2019/04/25,31.12.2020,direito,173,95087,01/01/2011,1.75,Patric,29,Clube Atlético Mineiro
+20,29/08/1998,2019/04/25,31.12.2023,direito,174,592344,01/01/2019,0.9,Guga,98,Clube Atlético Mineiro
+32,21/04/1987,2019/04/25,31.07.2019,direito,174,121046,01/04/2012,0.6,Carlos César,26,Clube Atlético Mineiro
+21,19/01/1998,2019/04/25,,direito,,646361,,,Renan Guedes,42,Clube Atlético Mineiro
+32,16/01/1987,2019/04/25,31.12.2020,direito,181,52408,01/03/2017,2.75,Adilson,21,Clube Atlético Mineiro
+24,11/03/1995,2019/04/25,31.12.2023,direito,177,323452,01/01/2019,1.00,José Welison,14,Clube Atlético Mineiro
+25,25/12/1993,2019/04/25,31.12.2021,direito,178,255754,01/06/2013,0.7,Lucas Cândido,18,Clube Atlético Mineiro
+24,26/08/1994,2019/04/25,31.12.2022,direito,178,239294,01/01/2019,0.7,Jair,88,Clube Atlético Mineiro
+16,11/09/2002,2019/04/25,,,,627231,02/01/2019,,Neto,46,Clube Atlético Mineiro
+33,16/05/1985,2019/04/25,31.01.2020,direito,173,74600,27/01/2017,2.00,Elias,7,Clube Atlético Mineiro
+24,03/10/1994,2019/04/25,31.12.2022,direito,174,374855,21/05/2018,1.50,Gustavo Blanco,30,Clube Atlético Mineiro
+28,11/08/1990,2019/04/25,30.04.2022,direito,170,192318,01/01/2013,2.50,Luan,27,Clube Atlético Mineiro
+24,11/08/1994,2019/04/25,30.06.2023,esquerdo,176,261309,01/07/2018,1.00,David Terans,20,Clube Atlético Mineiro
+27,03/04/1992,2019/04/25,31.12.2020,direito,171,146367,28/01/2016,6.00,Juan Cazares,10,Clube Atlético Mineiro
+28,15/04/1991,2019/04/25,31.12.2020,direito,177,106281,10/01/2019,1.75,Vinicius,92,Clube Atlético Mineiro
+18,27/04/2000,2019/04/25,31.12.2022,direito,175,584083,01/01/2019,0.05,Bruninho,43,Clube Atlético Mineiro
+20,15/02/1999,2019/04/25,,,,646362,,,Alessandro Vinícius,39,Clube Atlético Mineiro
+20,17/10/1998,2019/04/25,,,,468256,,0.05,Daniel Penha,41,Clube Atlético Mineiro
+29,18/02/1990,2019/04/25,31.12.2021,direito,182,70484,14/01/2019,2.75,Maicón,11,Clube Atlético Mineiro
+23,13/03/1996,2019/04/25,30.06.2019,direito,177,294798,24/07/2018,0.9,Nathan,23,Clube Atlético Mineiro
+20,11/10/1998,2019/04/25,30.06.2019,direito,174,351898,10/07/2018,0.6,Leandrinho,17,Clube Atlético Mineiro
+28,02/04/1991,2019/04/25,30.06.2023,direito,162,165361,09/06/2018,4.00,Yimmi Chará,8,Clube Atlético Mineiro
+27,05/04/1992,2019/04/25,31.12.2019,esquerdo,178,177009,08/03/2019,1.50,Geuvânio,49,Clube Atlético Mineiro
+38,06/05/1980,2019/04/25,31.12.2020,direito,183,15468,01/01/2018,0.75,Ricardo Oliveira,9,Clube Atlético Mineiro
+20,12/04/1999,2019/04/25,,direito,179,587328,13/02/2019,0.5,Rafael Papagaio,99,Clube Atlético Mineiro
+19,12/01/2000,2019/04/25,31.12.2021,direito,179,371996,01/03/2018,0.1,Alerrandro,44,Clube Atlético Mineiro
+28,19/03/1991,2019/04/25,31.12.2021,direito,189,102227,02/01/2019,0.9,Rodolfo,39,Fluminense Football Club
+29,11/12/1989,2019/04/25,31.12.2019,esquerdo,187,74584,05/01/2019,0.5,Agenor,25,Fluminense Football Club
+24,19/10/1994,2019/04/25,30.06.2019,direito,188,189425,22/01/2018,0.35,Guillermo de Amores,,Fluminense Football Club
+23,13/04/1996,2019/04/25,31.12.2019,direito,188,283166,01/07/2017,0.05,Marcos Felipe,1,Fluminense Football Club
+20,09/12/1998,2019/04/25,31.12.2019,direito,186,351894,27/02/2019,6.00,Léo Santos,14,Fluminense Football Club
+34,12/02/1985,2019/04/25,31.12.2019,direito,190,137159,01/01/2019,1.00,Matheus Ferraz,3,Fluminense Football Club
+30,07/05/1988,2019/04/25,31.12.2019,direito,186,85942,28/06/2018,1.00,Digão,26,Fluminense Football Club
+24,13/07/1994,2019/04/25,31.12.2019,direito,186,330031,07/08/2018,0.8,Paulo Ricardo,4,Fluminense Football Club
+24,27/03/1995,2019/04/25,30.04.2020,direito,187,187211,01/09/2015,0.5,Ygor Nogueira,,Fluminense Football Club
+22,05/06/1996,2019/04/25,31.12.2020,,188,522979,01/07/2017,0.4,Frazan,13,Fluminense Football Club
+22,10/04/1997,2019/04/25,31.12.2019,direito,188,520454,25/02/2019,0.3,Nino,33,Fluminense Football Club
+19,30/09/1999,2019/04/25,31.12.2019,,,599828,,0.05,César Nunes,40,Fluminense Football Club
+21,20/05/1997,2019/04/25,31.12.2021,esquerdo,178,406675,10/01/2019,0.8,Marlon,12,Fluminense Football Club
+20,27/07/1998,2019/04/25,31.12.2021,esquerdo,180,503766,01/01/2017,0.5,Matheus Mascarenhas,16,Fluminense Football Club
+26,07/03/1993,2019/04/25,31.12.2019,direito,181,231614,01/01/2018,1.50,Gilberto,2,Fluminense Football Club
+26,22/02/1993,2019/04/25,31.12.2019,direito,178,224047,04/01/2019,0.9,Ezequiel,6,Fluminense Football Club
+24,23/08/1994,2019/04/25,31.12.2020,direito,175,223977,01/07/2013,0.5,Igor Julião,21,Fluminense Football Club
+29,21/02/1990,2019/04/25,31.12.2019,direito,182,72861,16/01/2018,0.4,Airton,5,Fluminense Football Club
+24,08/04/1995,2019/04/25,29.12.2020,direito,178,362790,01/01/2017,0.15,Luiz Fernando,31,Fluminense Football Club
+20,03/02/1999,2019/04/25,22.01.2021,direito,175,600549,02/01/2019,0.05,Zé Ricardo,38,Fluminense Football Club
+19,10/05/1999,2019/04/25,31.12.2019,,,628223,,0.05,Alex,42,Fluminense Football Club
+20,11/01/1999,2019/04/25,,direito,187,565443,07/06/2018,,Caio,34,Fluminense Football Club
+32,03/08/1986,2019/04/25,31.12.2019,direito,179,75131,08/01/2019,1.50,Bruno Silva,8,Fluminense Football Club
+21,31/07/1997,2019/04/25,31.12.2019,esquerdo,179,420064,15/01/2019,1.25,Caio Henrique,19,Fluminense Football Club
+22,03/03/1997,2019/04/25,30.06.2019,esquerdo,172,385271,15/02/2019,1.00,Allan,29,Fluminense Football Club
+23,17/04/1996,2019/04/25,31.12.2020,direito,175,373174,01/01/2019,0.8,Dodi,15,Fluminense Football Club
+29,12/10/1989,2019/04/25,31.12.2023,esquerdo,184,67920,31/01/2019,2.00,Ganso,10,Fluminense Football Club
+24,23/03/1995,2019/04/25,,direito,177,259460,03/04/2019,0.9,Léo Arthur,,Fluminense Football Club
+23,11/01/1996,2019/04/25,31.12.2019,direito,173,418530,13/04/2018,0.5,Danielzinho,20,Fluminense Football Club
+19,10/08/1999,2019/04/25,08.09.2019,,179,594561,,0.05,Dudu,38,Fluminense Football Club
+24,28/05/1994,2019/04/25,17.05.2019,direito,172,388397,19/07/2018,1.25,Everaldo,37,Fluminense Football Club
+24,28/09/1994,2019/04/25,31.12.2019,direito,172,352890,01/01/2019,1.00,Mateus,22,Fluminense Football Club
+22,14/06/1996,2019/04/25,31.12.2019,esquerdo,172,341120,01/01/2017,0.7,Marcos Calazans,30,Fluminense Football Club
+28,03/05/1990,2019/04/25,31.05.2019,esquerdo,168,172454,02/06/2016,0.6,Maranhão,,Fluminense Football Club
+23,15/03/1996,2019/04/25,31.12.2019,esquerdo,176,288499,03/04/2019,1.00,Ewandro Costa,,Fluminense Football Club
+24,11/07/1994,2019/04/25,31.12.2019,direito,184,262474,04/01/2019,1.00,Yony González,11,Fluminense Football Club
+25,08/03/1994,2019/04/25,31.12.2019,direito,174,264343,01/01/2015,0.8,Pablo Dyego,7,Fluminense Football Club
+21,20/06/1997,2019/04/25,31.07.2021,direito,185,432895,01/01/2017,9.00,Pedro,9,Fluminense Football Club
+25,18/05/1993,2019/04/25,31.12.2021,ambos,180,223560,01/07/2018,2.00,Luciano Neves,18,Fluminense Football Club
+17,26/09/2001,2019/04/25,,direito,182,626724,02/01/2019,,João Pedro,23,Fluminense Football Club
+34,02/02/1985,2019/04/25,31.12.2020,esquerdo,191,291963,08/05/2018,1.00,Fernando Miguel,1,Club de Regatas Vasco da Gama
+24,04/04/1995,2019/04/25,16.02.2021,,190,376870,19/10/2015,0.1,Gabriel Félix,12,Club de Regatas Vasco da Gama
+21,28/01/1998,2019/04/25,31.12.2019,,188,547222,,0.05,João Pedro,46,Club de Regatas Vasco da Gama
+32,05/11/1986,2019/04/25,31.12.2019,esquerdo,186,54929,03/08/2018,2.00,Leandro Castán,5,Club de Regatas Vasco da Gama
+30,10/03/1989,2019/04/25,15.12.2019,direito,186,92056,17/07/2018,1.00,Oswaldo Henríquez,3,Club de Regatas Vasco da Gama
+25,12/02/1994,2019/04/25,31.12.2020,direito,180,225640,06/01/2018,1.00,Luiz Gustavo,13,Club de Regatas Vasco da Gama
+30,05/09/1988,2019/04/25,31.12.2019,direito,184,75437,25/01/2018,1.00,Werley,34,Club de Regatas Vasco da Gama
+29,13/10/1989,2019/04/25,31.12.2020,ambos,191,52947,01/01/2018,0.5,Breno,4,Club de Regatas Vasco da Gama
+22,16/02/1997,2019/04/25,31.12.2020,esquerdo,183,524607,01/01/2017,0.5,Ricardo Graça,36,Club de Regatas Vasco da Gama
+27,17/08/1991,2019/04/25,31.12.2019,esquerdo,186,271666,03/01/2019,1.25,Danilo Barcelos,14,Club de Regatas Vasco da Gama
+30,06/05/1988,2019/04/25,31.12.2020,esquerdo,173,55270,01/07/2017,1.25,Ramon Motta,33,Club de Regatas Vasco da Gama
+25,25/04/1994,2019/04/25,03.08.2020,esquerdo,173,204072,01/07/2013,1.25,Henrique,37,Club de Regatas Vasco da Gama
+20,06/06/1998,2019/04/25,,esquerdo,174,600708,01/07/2018,0.05,Luan Gama,46,Club de Regatas Vasco da Gama
+26,05/06/1992,2019/04/25,31.12.2021,direito,168,265660,01/01/2016,2.50,Yago Pikachu,22,Club de Regatas Vasco da Gama
+25,15/04/1994,2019/04/25,31.12.2020,direito,184,181783,01/01/2019,1.00,Cláudio Winck,21,Club de Regatas Vasco da Gama
+27,18/09/1991,2019/04/25,31.12.2019,direito,180,147410,04/01/2019,0.7,Raúl Cáceres,2,Club de Regatas Vasco da Gama
+21,17/03/1998,2019/04/25,31.12.2020,direito,171,589003,01/07/2017,0.05,Rafael França,26,Club de Regatas Vasco da Gama
+20,24/06/1998,2019/04/25,01.01.2020,,180,587600,,0.05,Matheus Moresche,39,Club de Regatas Vasco da Gama
+23,14/12/1995,2019/04/25,31.12.2022,esquerdo,179,538107,01/01/2019,1.00,Willian Maranhão,25,Club de Regatas Vasco da Gama
+22,11/07/1996,2019/04/25,31.12.2021,direito,180,479587,01/06/2018,0.9,Raul,31,Club de Regatas Vasco da Gama
+23,24/02/1996,2019/04/25,31.12.2019,direito,188,432958,04/01/2019,0.8,Lucas Mineiro,18,Club de Regatas Vasco da Gama
+31,15/02/1988,2019/04/25,25.04.2019,direito,183,74790,09/03/2018,0.5,Bruno Silva,29,Club de Regatas Vasco da Gama
+35,10/02/1984,2019/04/25,25.04.2019,direito,179,52410,11/01/2016,0.25,Marcelo Mattos,41,Club de Regatas Vasco da Gama
+20,03/05/1998,2019/04/25,03.02.2020,direito,180,588626,,0.05,Rodrigo Fernandes,42,Club de Regatas Vasco da Gama
+19,21/05/1999,2019/04/25,31.12.2019,,,622870,01/09/2017,0.05,Bruno Ritter,43,Club de Regatas Vasco da Gama
+23,13/05/1995,2019/04/25,31.12.2021,,,614324,16/04/2019,,Marcos Júnior,,Club de Regatas Vasco da Gama
+21,15/02/1998,2019/04/25,31.12.2021,direito,176,351895,01/01/2017,5.00,Andrey,15,Club de Regatas Vasco da Gama
+29,01/02/1990,2019/04/25,31.12.2019,direito,178,31127,01/01/2019,0.9,Fellipe Bastos,6,Club de Regatas Vasco da Gama
+21,24/06/1997,2019/04/25,31.12.2019,direito,173,469136,01/01/2019,0.4,Yan Sasse,20,Club de Regatas Vasco da Gama
+29,20/07/1989,2019/04/25,31.12.2019,direito,183,186399,05/01/2018,1.25,Thiago Galhardo,8,Club de Regatas Vasco da Gama
+30,03/11/1988,2019/04/25,31.12.2020,esquerdo,178,110074,01/01/2019,2.50,Bruno César,10,Club de Regatas Vasco da Gama
+20,07/03/1999,2019/04/25,31.12.2020,direito,164,588627,01/01/2018,,Lucas Santos,32,Club de Regatas Vasco da Gama
+24,04/10/1994,2019/04/25,31.12.2020,direito,174,255685,17/04/2019,2.00,Valdívia,,Club de Regatas Vasco da Gama
+20,14/12/1998,2019/04/25,31.12.2020,direito,,594201,,0.05,Dudu,28,Club de Regatas Vasco da Gama
+26,22/04/1993,2019/04/25,31.12.2019,direito,170,212114,25/01/2019,0.9,Rossi,7,Club de Regatas Vasco da Gama
+22,10/02/1997,2019/04/25,31.12.2021,direito,177,438432,01/05/2016,0.9,Caio Monteiro,23,Club de Regatas Vasco da Gama
+28,09/08/1990,2019/04/25,,,,667650,18/04/2019,,Jairinho,,Club de Regatas Vasco da Gama
+21,21/05/1997,2019/04/25,31.12.2020,esquerdo,184,423839,01/01/2019,1.00,Ribamar,9,Club de Regatas Vasco da Gama
+35,03/04/1984,2019/04/25,31.12.2019,direito,185,26263,15/07/2018,1.00,Maxi López,11,Club de Regatas Vasco da Gama
+20,05/02/1999,2019/04/25,31.12.2023,direito,184,599879,,0.9,Marrony,38,Club de Regatas Vasco da Gama
+26,22/02/1993,2019/04/25,30.12.2019,direito,175,258374,03/08/2018,0.4,Vinícius Araújo,30,Club de Regatas Vasco da Gama
+21,01/01/1998,2019/04/25,31.12.2020,direito,176,447660,01/01/2018,0.05,Hugo Borges,19,Club de Regatas Vasco da Gama
+29,17/03/1990,2019/04/25,30.10.2020,direito,188,140811,01/01/2010,1.75,Santos,1,Club Athletico Paranaense
+28,22/09/1990,2019/04/25,30.06.2020,direito,193,67144,18/07/2017,0.05,Léo Vieira,,Club Athletico Paranaense
+22,26/01/1997,2019/04/25,,,,582690,,0.05,Caio,25,Club Athletico Paranaense
+30,17/09/1988,2019/04/25,31.12.2020,direito,187,45431,20/01/2017,2.50,Thiago Heleno,44,Club Athletico Paranaense
+23,31/01/1996,2019/04/25,31.01.2020,esquerdo,189,288431,01/01/2014,1.75,Léo Pereira,22,Club Athletico Paranaense
+22,21/02/1997,2019/04/25,,direito,185,484848,01/01/2017,0.9,Zé Ivaldo,27,Club Athletico Paranaense
+35,20/08/1983,2019/04/25,,direito,188,32802,17/01/2017,0.6,Paulo André,13,Club Athletico Paranaense
+21,12/11/1997,2019/04/25,,direito,185,458715,01/01/2019,0.1,Robson Bambu,,Club Athletico Paranaense
+21,08/04/1998,2019/04/25,31.12.2022,esquerdo,178,476352,01/04/2018,1.25,Renan Lodi,12,Club Athletico Paranaense
+33,05/02/1986,2019/04/25,31.12.2020,esquerdo,173,55484,24/07/2018,0.9,Márcio Azevedo,6,Club Athletico Paranaense
+18,12/08/2000,2019/04/25,,esquerdo,,653349,,,Jáderson,28,Club Athletico Paranaense
+33,27/02/1986,2019/04/25,31.12.2020,direito,170,54149,01/01/2017,1.50,Jonathan,2,Club Athletico Paranaense
+27,13/01/1992,2019/04/25,31.12.2019,direito,182,177845,02/02/2019,1.00,Madson,23,Club Athletico Paranaense
+18,25/02/2001,2019/04/25,,direito,,653348,,,Khellven,21,Club Athletico Paranaense
+21,16/11/1997,2019/04/25,,direito,182,520624,01/05/2017,2.00,Bruno Guimarães,39,Club Athletico Paranaense
+28,28/01/1991,2019/04/25,31.12.2020,direito,173,74789,26/07/2018,1.50,Wellington,5,Club Athletico Paranaense
+21,14/11/1997,2019/04/25,,,,633212,01/01/2019,,Erick,26,Club Athletico Paranaense
+22,03/06/1996,2019/04/25,31.12.2021,direito,180,445000,01/01/2016,2.50,Matheus Rossetto,20,Club Athletico Paranaense
+25,27/02/1994,2019/04/25,31.12.2021,esquerdo,178,187210,14/01/2019,1.00,Léo Cittadini,18,Club Athletico Paranaense
+29,02/03/1990,2019/04/25,31.07.2019,direito,180,97507,24/02/2018,0.9,Guilherme Camacho,15,Club Athletico Paranaense
+38,19/01/1981,2019/04/25,31.12.2019,direito,186,26244,16/09/2016,0.75,Lucho González,3,Club Athletico Paranaense
+26,29/07/1992,2019/04/25,31.12.2019,direito,174,149572,14/01/2015,2.25,Nikão,11,Club Athletico Paranaense
+22,16/11/1996,2019/04/25,31.12.2019,esquerdo,175,389152,17/01/2019,1.25,Tomás Andrade,8,Club Athletico Paranaense
+32,03/07/1986,2019/04/25,,esquerdo,182,53288,06/09/2018,0.9,Marquinho,,Club Athletico Paranaense
+27,15/06/1991,2019/04/25,31.12.2019,direito,173,357937,08/02/2019,2.50,Braian Romero,17,Club Athletico Paranaense
+25,12/07/1993,2019/04/25,31.12.2019,direito,177,242808,12/01/2017,1.00,Felipe Gedoz,,Club Athletico Paranaense
+24,09/02/1995,2019/04/25,30.06.2021,esquerdo,178,250010,16/07/2018,0.5,Bruno Nazário,77,Club Athletico Paranaense
+20,28/07/1998,2019/04/25,31.12.2019,direito,175,315761,18/03/2019,0.15,Pierre da Silva,,Club Athletico Paranaense
+27,22/01/1992,2019/04/25,30.12.2019,direito,182,114514,01/10/2009,2.00,Marcelo Cirino,10,Club Athletico Paranaense
+28,08/11/1990,2019/04/25,,direito,172,211399,13/08/2018,1.25,Ánderson Plata,16,Club Athletico Paranaense
+32,26/10/1986,2019/04/25,31.12.2019,direito,179,30825,11/01/2019,1.25,Marco Ruben,9,Club Athletico Paranaense
+23,11/05/1995,2019/04/25,,direito,170,371009,31/08/2018,0.9,Rony,7,Club Athletico Paranaense
+20,07/07/1998,2019/04/25,31.12.2019,direito,183,592346,01/02/2019,0.1,Gabriel Poveda,29,Club Athletico Paranaense
+21,09/01/1998,2019/04/25,,,175,553458,31/01/2019,0.05,Guilherme Bissoli,,Club Athletico Paranaense
+30,12/12/1988,2019/04/25,31.12.2020,direito,194,374094,05/01/2018,1.75,Douglas Friedrich,1,Esporte Clube Bahia
+35,20/11/1983,2019/04/25,31.05.2019,direito,190,101504,26/08/2016,0.25,Anderson,33,Esporte Clube Bahia
+22,30/03/1997,2019/04/25,31.12.2019,,195,584630,,0.05,Fernando Castro,32,Esporte Clube Bahia
+31,17/04/1988,2019/04/25,31.12.2019,direito,184,53755,08/01/2019,1.50,Ernando,14,Esporte Clube Bahia
+28,01/05/1990,2019/04/25,31.12.2019,direito,186,193135,12/05/2016,1.25,Jackson,4,Esporte Clube Bahia
+33,02/08/1985,2019/04/25,31.12.2019,direito,191,203060,04/03/2016,1.00,Lucas Fonseca,28,Esporte Clube Bahia
+28,08/05/1990,2019/04/25,,esquerdo,189,439389,18/01/2019,0.5,Xandão,44,Esporte Clube Bahia
+21,24/07/1997,2019/04/25,31.12.2020,esquerdo,187,468253,01/05/2017,0.4,Everson,25,Esporte Clube Bahia
+22,01/12/1996,2019/04/25,31.12.2022,,186,624291,08/01/2019,0.1,Ignacio,34,Esporte Clube Bahia
+24,11/03/1995,2019/04/25,31.12.2021,esquerdo,181,368468,18/01/2019,0.8,Moisés,6,Esporte Clube Bahia
+24,03/01/1995,2019/04/25,31.08.2021,esquerdo,178,520492,03/08/2018,0.5,Paulinho,16,Esporte Clube Bahia
+19,31/08/1999,2019/04/25,,esquerdo,172,603423,,0.05,Mayk,41,Esporte Clube Bahia
+33,10/01/1986,2019/04/25,,direito,168,72451,01/01/2018,1.00,Nino Paraíba,2,Esporte Clube Bahia
+21,03/10/1997,2019/04/25,31.12.2019,direito,182,593208,01/01/2019,0.4,Matheus Silva,13,Esporte Clube Bahia
+17,30/03/2002,2019/04/25,30.04.2021,direito,,647540,,0.05,Douglas Borel,31,Esporte Clube Bahia
+29,17/03/1990,2019/04/25,31.12.2019,direito,180,128823,01/01/2018,1.50,Elton,17,Esporte Clube Bahia
+25,13/06/1993,2019/04/25,31.12.2021,direito,181,546036,01/01/2019,1.50,Gregore,26,Esporte Clube Bahia
+32,21/04/1987,2019/04/25,31.12.2019,direito,185,56676,04/01/2018,1.25,Nílton,19,Esporte Clube Bahia
+25,20/04/1994,2019/04/25,,direito,173,373193,05/02/2016,0.5,Yuri,,Esporte Clube Bahia
+23,10/02/1996,2019/04/25,31.12.2020,ambos,177,373191,22/03/2018,0.5,Flávio,5,Esporte Clube Bahia
+22,16/01/1997,2019/04/25,,,,544464,22/05/2018,0.05,Lepu,36,Esporte Clube Bahia
+22,13/01/1997,2019/04/25,31.12.2019,esquerdo,174,393621,21/01/2019,2.00,Douglas Augusto,97,Esporte Clube Bahia
+18,10/08/2000,2019/04/25,31.12.2022,direito,172,614328,,1.50,Ramires,10,Esporte Clube Bahia
+23,10/02/1996,2019/04/25,,esquerdo,181,411661,18/01/2019,0.1,Fernando Medeiros,96,Esporte Clube Bahia
+21,03/03/1998,2019/04/25,,,,553085,24/04/2019,0.05,Júnior Ramos,,Esporte Clube Bahia
+30,22/10/1988,2019/04/25,31.12.2019,ambos,174,54160,10/01/2019,1.75,Guilherme,8,Esporte Clube Bahia
+21,27/04/1997,2019/04/25,31.01.2021,esquerdo,178,480274,01/01/2019,0.9,Shaylon,27,Esporte Clube Bahia
+21,01/10/1997,2019/04/25,31.12.2021,direito,172,578413,20/04/2018,0.9,Marco Antônio,30,Esporte Clube Bahia
+25,06/09/1993,2019/04/25,,direito,178,382240,19/03/2018,0.4,João Paulo,,Esporte Clube Bahia
+26,27/05/1992,2019/04/25,31.12.2020,direito,170,201792,03/01/2018,1.75,Élber,7,Esporte Clube Bahia
+28,24/12/1990,2019/04/25,30.05.2021,direito,174,175256,02/01/2019,1.25,Rogério,90,Esporte Clube Bahia
+21,15/02/1998,2019/04/25,31.12.2019,esquerdo,168,440658,04/01/2019,0.8,Artur,98,Esporte Clube Bahia
+23,23/10/1995,2019/04/25,30.08.2019,direito,173,250007,10/08/2018,1.75,Clayton,12,Esporte Clube Bahia
+23,11/03/1996,2019/04/25,31.12.2019,,175,519874,01/01/2019,0.4,Iago,71,Esporte Clube Bahia
+21,19/07/1997,2019/04/25,,direito,174,442818,25/05/2018,0.05,Fernandinho,37,Esporte Clube Bahia
+26,15/06/1992,2019/04/25,31.12.2019,direito,174,224481,06/02/2019,2.75,Arthur Caíke,11,Esporte Clube Bahia
+32,27/03/1987,2019/04/25,31.12.2020,direito,192,83886,23/01/2019,1.00,Fernandão,20,Esporte Clube Bahia
+29,05/06/1989,2019/04/25,31.12.2020,direito,178,164013,01/07/2018,0.9,Gilberto,9,Esporte Clube Bahia
+31,29/03/1988,2019/04/25,30.12.2021,direito,191,107318,01/01/2017,2.50,Roberto Fernández,,Botafogo de Futebol e Regatas
+36,01/12/1982,2019/04/25,31.12.2019,esquerdo,189,53231,01/01/2019,1.00,Diego Cavalieri,,Botafogo de Futebol e Regatas
+17,01/07/2001,2019/04/25,31.12.2019,,,610417,01/08/2018,0.05,Andrew,,Botafogo de Futebol e Regatas
+19,11/12/1999,2019/04/25,,,,650518,,0.05,Lucas Alves,,Botafogo de Futebol e Regatas
+24,14/03/1995,2019/04/25,31.12.2020,direito,181,330114,04/01/2019,2.25,Gabriel,,Botafogo de Futebol e Regatas
+32,19/10/1986,2019/04/25,06.04.2020,direito,193,87323,01/01/2016,1.00,Joel Carli,,Botafogo de Futebol e Regatas
+23,07/01/1996,2019/04/25,31.12.2020,direito,180,476339,01/01/2017,0.7,Marcelo,,Botafogo de Futebol e Regatas
+22,07/03/1997,2019/04/25,,,186,524446,01/01/2018,0.05,Kanu,,Botafogo de Futebol e Regatas
+21,28/10/1997,2019/04/25,31.12.2020,esquerdo,190,610416,,0.05,Helerson,,Botafogo de Futebol e Regatas
+32,14/05/1986,2019/04/25,31.12.2019,esquerdo,177,132568,19/01/2017,0.9,Gilson,,Botafogo de Futebol e Regatas
+21,03/03/1998,2019/04/25,31.12.2021,esquerdo,172,579346,11/01/2019,0.5,Jonathan,,Botafogo de Futebol e Regatas
+23,08/01/1996,2019/04/25,,esquerdo,173,476337,18/04/2019,0.05,Yuri,,Botafogo de Futebol e Regatas
+19,21/08/1999,2019/04/25,,,,650519,,0.05,Lucas Barros,,Botafogo de Futebol e Regatas
+22,16/05/1996,2019/04/25,31.12.2020,direito,178,432967,,2.50,Marcinho,,Botafogo de Futebol e Regatas
+24,26/09/1994,2019/04/25,31.12.2019,direito,183,349826,10/04/2018,1.50,Jean,,Botafogo de Futebol e Regatas
+28,24/04/1991,2019/04/25,31.12.2021,direito,182,113336,01/01/2019,1.00,Alan Santos,,Botafogo de Futebol e Regatas
+20,07/06/1998,2019/04/25,,direito,177,524404,,0.05,Wenderson,,Botafogo de Futebol e Regatas
+20,30/06/1998,2019/04/25,,,,529609,,,Rickson,,Botafogo de Futebol e Regatas
+34,26/08/1984,2019/04/25,31.12.2019,esquerdo,181,17663,04/02/2019,2.00,Cícero,,Botafogo de Futebol e Regatas
+28,08/03/1991,2019/04/25,30.12.2021,direito,171,135984,01/01/2017,1.50,João Paulo,,Botafogo de Futebol e Regatas
+23,13/05/1995,2019/04/25,31.12.2021,direito,185,219835,08/01/2019,0.9,Alex Santana,,Botafogo de Futebol e Regatas
+22,08/06/1996,2019/04/25,31.12.2021,esquerdo,173,439455,01/04/2016,0.8,Gustavo Bochecha,,Botafogo de Futebol e Regatas
+28,25/04/1991,2019/04/25,09.07.2019,direito,169,201318,06/07/2017,2.00,Leonardo Valencia,,Botafogo de Futebol e Regatas
+22,16/10/1996,2019/04/25,31.12.2021,direito,178,372013,03/01/2018,1.50,Luiz Fernando,,Botafogo de Futebol e Regatas
+31,23/10/1987,2019/04/25,31.12.2019,direito,176,76134,13/05/2016,1.00,Rodrigo Pimpão,,Botafogo de Futebol e Regatas
+24,18/07/1994,2019/04/25,22.12.2020,direito,170,262016,18/08/2018,1.75,Erik,,Botafogo de Futebol e Regatas
+23,02/01/1996,2019/04/25,31.12.2019,direito,177,348264,01/01/2019,0.9,Gustavo Ferrareis,,Botafogo de Futebol e Regatas
+23,26/02/1996,2019/04/25,,direito,185,476338,,0.05,Pachu,,Botafogo de Futebol e Regatas
+21,30/10/1997,2019/04/25,,,165,524442,01/01/2018,0.05,Lucas Campos,,Botafogo de Futebol e Regatas
+33,17/06/1985,2019/04/25,31.12.2019,direito,186,33315,08/03/2019,4.50,Diego Souza,7,Botafogo de Futebol e Regatas
+30,06/09/1988,2019/04/25,31.12.2020,direito,186,270420,02/01/2019,0.9,João Ricardo,1,Associação Chapecoense de Futebol
+29,24/08/1989,2019/04/25,31.12.2019,direito,192,200455,05/04/2019,0.6,Vagner,,Associação Chapecoense de Futebol
+23,12/07/1995,2019/04/25,31.12.2021,direito,186,479211,01/01/2018,0.1,Elias,,Associação Chapecoense de Futebol
+21,08/02/1998,2019/04/25,,direito,184,432964,,0.05,Tiepo,98,Associação Chapecoense de Futebol
+33,04/01/1986,2019/04/25,31.12.2019,direito,189,45591,12/03/2019,2.00,Gum,,Associação Chapecoense de Futebol
+29,04/04/1990,2019/04/25,31.12.2019,direito,190,101304,18/07/2018,2.00,Douglas,23,Associação Chapecoense de Futebol
+34,18/11/1984,2019/04/25,,direito,183,58362,30/07/2018,0.5,Rafael Pereira,33,Associação Chapecoense de Futebol
+27,25/05/1991,2019/04/25,,direito,190,178941,03/01/2019,0.4,Joílson,34,Associação Chapecoense de Futebol
+33,16/08/1985,2019/04/25,,direito,195,131787,12/02/2015,0.1,Neto,4,Associação Chapecoense de Futebol
+21,04/11/1997,2019/04/25,,direito,191,436747,01/01/2017,0.05,Hiago,35,Associação Chapecoense de Futebol
+21,07/01/1998,2019/04/25,,direito,182,650230,,0.05,Tharlis,85,Associação Chapecoense de Futebol
+27,08/12/1991,2019/04/25,,esquerdo,174,435163,01/01/2019,1.00,Bruno Pacheco,6,Associação Chapecoense de Futebol
+26,07/03/1993,2019/04/25,,esquerdo,183,277361,23/01/2018,0.4,Vinícius,17,Associação Chapecoense de Futebol
+28,04/12/1990,2019/04/25,,esquerdo,177,114144,04/01/2018,0.3,Roberto,32,Associação Chapecoense de Futebol
+32,20/11/1986,2019/04/25,,direito,173,53999,04/01/2018,1.00,Eduardo,2,Associação Chapecoense de Futebol
+22,03/08/1996,2019/04/25,31.12.2019,direito,176,524568,01/01/2017,0.05,Bryan,31,Associação Chapecoense de Futebol
+34,11/06/1984,2019/04/25,31.12.2019,direito,172,65162,05/01/2018,1.00,Márcio Araújo,8,Associação Chapecoense de Futebol
+33,08/06/1985,2019/04/25,,direito,176,54989,21/08/2017,0.9,Elicarlos,86,Associação Chapecoense de Futebol
+32,07/10/1986,2019/04/25,,direito,182,53788,01/01/2018,0.8,Amaral,5,Associação Chapecoense de Futebol
+28,03/03/1991,2019/04/25,,direito,179,227986,01/01/2017,0.4,Moisés Ribeiro,5,Associação Chapecoense de Futebol
+21,22/02/1998,2019/04/25,,,,626138,,,Ronei,15,Associação Chapecoense de Futebol
+27,04/04/1992,2019/04/25,30.06.2020,direito,178,103674,22/02/2019,2.00,Gustavo Campanharo,10,Associação Chapecoense de Futebol
+26,06/08/1992,2019/04/25,31.12.2019,direito,178,107012,21/01/2019,0.8,Augusto César,20,Associação Chapecoense de Futebol
+28,22/06/1990,2019/04/25,,direito,173,243810,03/08/2018,0.2,Edgardo Orzuza,16,Associação Chapecoense de Futebol
+29,19/01/1990,2019/04/25,31.12.2020,direito,181,150511,01/01/2019,0.9,Renato Silva,19,Associação Chapecoense de Futebol
+29,23/08/1989,2019/04/25,31.12.2020,esquerdo,176,75080,01/01/2018,0.5,Alan Ruschel,28,Associação Chapecoense de Futebol
+24,26/12/1994,2019/04/25,,direito,177,189963,01/03/2019,0.9,Marcos Vinicius,,Associação Chapecoense de Futebol
+28,06/11/1990,2019/04/25,30.06.2021,esquerdo,174,142340,27/07/2018,0.9,Diego Torres,12,Associação Chapecoense de Futebol
+24,15/03/1995,2019/04/25,30.06.2019,direito,173,336724,27/07/2018,0.4,Yann Rolim,25,Associação Chapecoense de Futebol
+21,19/08/1997,2019/04/25,,,,583864,,0.05,Kendy,31,Associação Chapecoense de Futebol
+21,23/03/1998,2019/04/25,,,,668798,,,Vinícius Locatelli,,Associação Chapecoense de Futebol
+30,20/03/1989,2019/04/25,31.12.2019,direito,181,175230,01/03/2019,1.25,Rildo,7,Associação Chapecoense de Futebol
+19,28/03/2000,2019/04/25,31.12.2022,,176,564684,,1.25,Bruno Silva,29,Associação Chapecoense de Futebol
+23,30/09/1995,2019/04/25,30.06.2019,direito,177,203323,30/07/2018,1.00,Victor Andrade,11,Associação Chapecoense de Futebol
+27,07/04/1992,2019/04/25,31.12.2020,direito,180,329845,01/01/2019,0.9,Aylon,18,Associação Chapecoense de Futebol
+23,02/01/1996,2019/04/25,,direito,178,432960,01/01/2017,0.6,Lourency,13,Associação Chapecoense de Futebol
+24,12/04/1995,2019/04/25,31.12.2019,direito,178,405769,01/03/2019,0.1,Thiago Santos,40,Associação Chapecoense de Futebol
+27,05/07/1991,2019/04/25,,direito,181,205041,22/01/2019,1.00,Everaldo,77,Associação Chapecoense de Futebol
+36,24/12/1982,2019/04/25,,direito,188,91953,01/01/2019,0.9,Sidão,12,Goiás Esporte Clube
+25,17/05/1993,2019/04/25,,,184,351229,13/01/2018,0.6,Marcão,1,Goiás Esporte Clube
+30,17/05/1988,2019/04/25,31.12.2020,direito,186,412610,16/01/2017,0.25,Marcelo Rangel,,Goiás Esporte Clube
+27,04/02/1992,2019/04/25,31.12.2019,direito,184,258367,05/04/2019,0.05,Tadeu,,Goiás Esporte Clube
+24,15/12/1994,2019/04/25,,,189,363772,01/01/2015,0.05,Matheus Alves,94,Goiás Esporte Clube
+30,17/09/1988,2019/04/25,31.12.2020,esquerdo,188,255805,01/01/2019,1.00,Rafael Vaz,4,Goiás Esporte Clube
+24,24/01/1995,2019/04/25,,direito,192,373446,01/01/2016,0.9,David Duarte,3,Goiás Esporte Clube
+26,29/08/1992,2019/04/25,31.12.2019,direito,185,184156,02/01/2019,0.6,Yago,33,Goiás Esporte Clube
+28,06/01/1991,2019/04/25,31.12.2019,direito,186,267464,16/01/2017,0.4,Fábio Sanches,27,Goiás Esporte Clube
+24,02/01/1995,2019/04/25,31.12.2019,esquerdo,177,348769,31/01/2019,0.7,Marcelo Hermes,86,Goiás Esporte Clube
+24,26/10/1994,2019/04/25,,esquerdo,178,333025,01/01/2019,0.5,Nilson Loyola,21,Goiás Esporte Clube
+22,03/01/1997,2019/04/25,,esquerdo,176,435211,01/01/2016,0.2,Jefferson,13,Goiás Esporte Clube
+25,02/04/1994,2019/04/25,31.12.2019,direito,180,330035,13/03/2019,0.8,Daniel Guedes,15,Goiás Esporte Clube
+26,23/05/1992,2019/04/25,,direito,170,254771,03/02/2018,0.6,Caique Sá,70,Goiás Esporte Clube
+21,07/09/1997,2019/04/25,,direito,174,520430,02/01/2019,0.5,Kevin,2,Goiás Esporte Clube
+30,20/10/1988,2019/04/25,31.12.2019,direito,189,186526,03/04/2018,0.7,Gilberto,29,Goiás Esporte Clube
+30,20/02/1989,2019/04/25,31.12.2020,direito,179,100124,01/01/2019,0.5,Geovane,5,Goiás Esporte Clube
+24,09/02/1995,2019/04/25,31.12.2019,direito,181,224878,13/12/2017,0.4,João Afonso,,Goiás Esporte Clube
+25,24/03/1994,2019/04/25,,,176,363783,,0.2,Péricles,,Goiás Esporte Clube
+20,08/07/1998,2019/04/25,,,178,592310,10/01/2018,,Madison,,Goiás Esporte Clube
+19,22/04/2000,2019/04/25,,,,596527,,0.05,Miguel Ferreira,,Goiás Esporte Clube
+22,01/10/1996,2019/04/25,,direito,176,613190,11/01/2019,0.05,Ratinho,18,Goiás Esporte Clube
+29,05/09/1989,2019/04/25,31.12.2019,direito,177,125513,11/03/2019,2.00,Giovanni Augusto,,Goiás Esporte Clube
+27,02/04/1992,2019/04/25,31.12.2019,direito,180,231039,02/01/2019,2.00,Marlone,10,Goiás Esporte Clube
+24,03/02/1995,2019/04/25,31.12.2019,direito,174,346935,09/04/2019,1.00,Yago,,Goiás Esporte Clube
+27,31/01/1992,2019/04/25,31.12.2019,direito,172,202907,02/01/2019,0.9,Renatinho,7,Goiás Esporte Clube
+23,31/12/1995,2019/04/25,31.12.2020,direito,175,435213,01/01/2016,0.5,Léo Sena,20,Goiás Esporte Clube
+21,03/01/1998,2019/04/25,,esquerdo,176,436580,,0.1,Thalles,98,Goiás Esporte Clube
+23,12/03/1996,2019/04/25,,esquerdo,166,520392,11/04/2017,1.00,Michael,11,Goiás Esporte Clube
+21,19/09/1997,2019/04/25,,direito,175,379369,25/01/2019,0.3,Giovanny,97,Goiás Esporte Clube
+26,08/03/1993,2019/04/25,31.12.2019,direito,172,288438,01/01/2013,0.2,Liniker,,Goiás Esporte Clube
+23,08/06/1995,2019/04/25,31.12.2021,direito,176,514500,03/01/2019,1.00,Marcinho,22,Goiás Esporte Clube
+26,08/10/1992,2019/04/25,31.12.2019,direito,173,322059,15/01/2019,0.7,Leandro Barcia,30,Goiás Esporte Clube
+26,21/06/1992,2019/04/25,31.12.2019,direito,175,170385,11/01/2018,0.5,Rafinha,,Goiás Esporte Clube
+23,07/01/1996,2019/04/25,31.12.2019,direito,187,592351,03/01/2019,1.50,Junior Brandão,9,Goiás Esporte Clube
+25,01/03/1994,2019/04/25,31.12.2019,direito,182,435046,05/01/2019,1.00,Brenner,38,Goiás Esporte Clube
+31,01/04/1988,2019/04/25,31.12.2019,direito,182,55378,03/04/2019,0.75,Kayke,,Goiás Esporte Clube
+21,28/04/1997,2019/04/25,,,183,606966,18/01/2019,,Ricardo Verza,,Goiás Esporte Clube
+28,01/03/1991,2019/04/25,31.12.2021,direito,186,159893,16/01/2019,0.8,Richard,91,Ceará Sporting Club
+32,07/08/1986,2019/04/25,31.05.2020,direito,192,186398,14/08/2018,0.25,Diogo Silva,12,Ceará Sporting Club
+35,25/11/1983,2019/04/25,,direito,189,53371,05/05/2017,0.05,Fernando Henrique,83,Ceará Sporting Club
+30,14/09/1988,2019/04/25,31.12.2021,direito,190,265693,01/01/2019,0.9,Luiz Otávio,13,Ceará Sporting Club
+27,06/05/1991,2019/04/25,31.12.2020,esquerdo,186,435232,01/01/2019,0.6,Eduardo Brock,4,Ceará Sporting Club
+34,29/05/1984,2019/04/25,,direito,186,147435,26/03/2018,0.6,Tiago Alves,36,Ceará Sporting Club
+27,10/02/1992,2019/04/25,30.11.2019,direito,183,441762,01/05/2016,0.5,Valdo,3,Ceará Sporting Club
+30,26/04/1988,2019/04/25,,direito,188,212221,01/01/2019,0.3,Charles,44,Ceará Sporting Club
+30,24/03/1989,2019/04/25,31.12.2019,esquerdo,176,60982,16/02/2019,1.15,Thiago Carleto,46,Ceará Sporting Club
+27,08/06/1991,2019/04/25,31.12.2019,esquerdo,184,346051,06/06/2018,0.5,João Lucas,66,Ceará Sporting Club
+28,06/06/1990,2019/04/25,31.12.2020,direito,166,198250,01/01/2019,1.25,Samuel Xavier,22,Ceará Sporting Club
+27,10/09/1991,2019/04/25,,direito,174,151505,01/02/2019,1.00,Auremir,18,Ceará Sporting Club
+28,25/07/1990,2019/04/25,,direito,176,278402,01/01/2019,0.4,Cristóvam,2,Ceará Sporting Club
+32,19/11/1986,2019/04/25,,direito,180,210548,26/05/2018,0.8,Fabinho,19,Ceará Sporting Club
+32,20/03/1987,2019/04/25,31.12.2019,direito,182,52514,15/03/2017,0.7,Pedro Ken,88,Ceará Sporting Club
+27,25/02/1992,2019/04/25,,direito,182,436570,01/01/2019,0.6,William Oliveira,55,Ceará Sporting Club
+36,15/01/1983,2019/04/25,,direito,180,27363,18/07/2018,0.5,Edinho,5,Ceará Sporting Club
+33,20/03/1986,2019/04/25,31.12.2019,direito,174,101542,13/01/2018,1.00,Juninho,20,Ceará Sporting Club
+32,15/12/1986,2019/04/25,31.12.2019,direito,175,225912,01/03/2017,1.25,Ricardinho,8,Ceará Sporting Club
+28,28/05/1990,2019/04/25,,esquerdo,171,105512,01/01/2019,0.7,Felipe,10,Ceará Sporting Club
+27,11/10/1991,2019/04/25,31.12.2021,esquerdo,173,166483,18/02/2019,0.7,Wescley,27,Ceará Sporting Club
+24,17/12/1994,2019/04/25,31.12.2021,direito,178,350342,01/01/2019,0.5,Fernando Sobral,11,Ceará Sporting Club
+27,16/05/1991,2019/04/25,,direito,174,349166,10/01/2019,0.3,Chico,30,Ceará Sporting Club
+19,01/06/1999,2019/04/25,,,,617700,,0.05,Kendy,18,Ceará Sporting Club
+23,10/05/1995,2019/04/25,30.03.2022,direito,172,437773,01/03/2019,1.00,Leandro Carvalho,82,Ceará Sporting Club
+22,01/08/1996,2019/04/25,,direito,169,402976,01/01/2019,0.5,Vitor Feijão,7,Ceará Sporting Club
+28,09/02/1991,2019/04/25,,direito,181,135061,22/04/2019,0.9,Bérgson,,Ceará Sporting Club
+34,07/01/1985,2019/04/25,31.12.2019,direito,184,70342,24/01/2019,0.9,Roger,9,Ceará Sporting Club
+33,12/12/1985,2019/04/25,31.12.2020,direito,168,142136,24/07/2018,0.9,Juninho Quixadá,21,Ceará Sporting Club
+31,15/08/1987,2019/04/25,,direito,183,110650,27/08/2018,0.5,Ricardo Bueno,99,Ceará Sporting Club
+22,28/11/1996,2019/04/25,,esquerdo,179,375016,01/01/2019,0.4,João Paulo,17,Ceará Sporting Club
+25,15/05/1993,2019/04/25,,direito,169,212954,01/01/2019,0.4,Willie,93,Ceará Sporting Club
+34,28/11/1984,2019/04/25,15.12.2020,direito,191,27346,01/01/2017,0.9,Marcelo Boeck,1,Fortaleza Esporte Clube
+30,21/05/1988,2019/04/25,,esquerdo,187,189682,01/01/2019,0.25,Felipe Alves,,Fortaleza Esporte Clube
+21,23/05/1997,2019/04/25,,direito,189,635066,,0.05,Matheus Jesus,,Fortaleza Esporte Clube
+25,23/10/1993,2019/04/25,31.12.2020,direito,181,592336,,0.05,Max Walef,23,Fortaleza Esporte Clube
+28,02/06/1990,2019/04/25,31.12.2019,direito,186,222468,01/03/2019,0.7,Nathan Otávio,,Fortaleza Esporte Clube
+25,04/03/1994,2019/04/25,31.12.2019,direito,189,373088,01/01/2019,0.7,Patrick Marcelino,,Fortaleza Esporte Clube
+24,23/03/1995,2019/04/25,31.12.2020,direito,184,323838,19/01/2019,0.5,Juan Quintero,,Fortaleza Esporte Clube
+32,10/12/1986,2019/04/25,31.12.2019,direito,184,112962,01/01/2018,0.4,Roger Carvalho,,Fortaleza Esporte Clube
+17,26/05/2001,2019/04/25,,direito,171,661883,,,Diguinho,,Fortaleza Esporte Clube
+32,29/11/1986,2019/04/25,31.12.2020,esquerdo,168,55243,01/01/2019,1.00,Carlinhos,,Fortaleza Esporte Clube
+26,26/10/1992,2019/04/25,,esquerdo,183,538230,04/01/2015,0.7,Bruno Melo,6,Fortaleza Esporte Clube
+25,01/09/1993,2019/04/25,,direito,179,273442,01/01/2018,0.8,Tinga,2,Fortaleza Esporte Clube
+27,06/07/1991,2019/04/25,30.04.2019,direito,175,435234,06/09/2018,0.2,Diego Tavares,21,Fortaleza Esporte Clube
+23,26/02/1996,2019/04/25,,direito,175,382170,01/01/2019,0.2,Diego,22,Fortaleza Esporte Clube
+25,10/04/1994,2019/04/25,31.12.2021,direito,184,508930,23/03/2015,0.7,Felipe,15,Fortaleza Esporte Clube
+32,06/03/1987,2019/04/25,31.12.2019,direito,176,148135,01/01/2019,0.6,Paulo Roberto,,Fortaleza Esporte Clube
+24,10/05/1994,2019/04/25,31.12.2020,direito,183,336474,15/01/2019,0.6,Gabriel Dias,,Fortaleza Esporte Clube
+32,02/08/1986,2019/04/25,31.12.2019,direito,188,67889,01/01/2018,0.6,Derley,8,Fortaleza Esporte Clube
+23,12/03/1996,2019/04/25,31.12.2020,direito,175,435484,08/03/2019,0.4,Felipe Araruna,,Fortaleza Esporte Clube
+29,15/02/1990,2019/04/25,,direito,176,148608,14/01/2019,1.00,Santiago Romero,,Fortaleza Esporte Clube
+29,26/02/1990,2019/04/25,,,175,538234,03/05/2018,0.7,Marlon,11,Fortaleza Esporte Clube
+24,01/01/1995,2019/04/25,31.12.2019,direito,158,353279,01/01/2019,0.3,Edinho,,Fortaleza Esporte Clube
+24,05/09/1994,2019/04/25,31.12.2019,direito,171,281837,05/04/2018,0.9,Dodô,,Fortaleza Esporte Clube
+23,16/05/1995,2019/04/25,31.12.2019,direito,173,520081,22/05/2018,0.9,Marcinho,,Fortaleza Esporte Clube
+22,10/07/1996,2019/04/25,31.12.2019,direito,171,524438,08/01/2019,0.9,Matheus Alessandro,,Fortaleza Esporte Clube
+32,11/04/1987,2019/04/25,31.12.2020,direito,170,76191,14/02/2019,0.8,Osvaldo,17,Fortaleza Esporte Clube
+30,13/03/1989,2019/04/25,,direito,171,76470,26/07/2018,0.8,Éderson,91,Fortaleza Esporte Clube
+25,01/03/1994,2019/04/25,,direito,168,267849,08/08/2018,0.3,Romarinho,20,Fortaleza Esporte Clube
+32,24/09/1986,2019/04/25,31.12.2019,direito,180,112335,22/04/2019,1.25,Kieza,,Fortaleza Esporte Clube
+35,22/04/1984,2019/04/25,31.12.2020,direito,180,51716,02/03/2019,1.00,Wellington Paulista,,Fortaleza Esporte Clube
+24,11/10/1994,2019/04/25,,direito,188,592347,01/01/2019,0.9,Júnior Santos,,Fortaleza Esporte Clube
+24,25/05/1994,2019/04/25,31.12.2020,,,663087,22/04/2019,,Jefinho,,Fortaleza Esporte Clube
+31,06/04/1988,2019/04/25,,direito,191,68408,01/01/2019,0.7,João Carlos,1,Centro Sportivo Alagoano (AL)
+26,12/07/1992,2019/04/25,31.12.2019,direito,190,375469,01/05/2017,0.3,Alexandre Cajuru,12,Centro Sportivo Alagoano (AL)
+33,07/01/1986,2019/04/25,,direito,193,150479,01/01/2019,0.3,Fabrício,31,Centro Sportivo Alagoano (AL)
+25,03/09/1993,2019/04/25,,direito,191,255928,15/04/2019,0.25,Jordi Almeida,,Centro Sportivo Alagoano (AL)
+29,09/07/1989,2019/04/25,,direito,187,124543,11/02/2019,1.25,Ronaldo Alves,17,Centro Sportivo Alagoano (AL)
+33,24/02/1986,2019/04/25,31.12.2019,direito,187,64577,11/12/2015,0.7,Leandro Souza,3,Centro Sportivo Alagoano (AL)
+29,13/09/1989,2019/04/25,,esquerdo,187,140541,01/01/2019,0.7,Luciano Castan,4,Centro Sportivo Alagoano (AL)
+27,07/01/1992,2019/04/25,31.12.2019,direito,186,161438,02/01/2019,0.5,Gerson,13,Centro Sportivo Alagoano (AL)
+19,03/09/1999,2019/04/25,,,,594762,,0.05,Johnatan Vital,,Centro Sportivo Alagoano (AL)
+21,18/07/1997,2019/04/25,31.12.2019,,,620043,01/01/2018,0.05,Rony,15,Centro Sportivo Alagoano (AL)
+23,20/07/1995,2019/04/25,,,,642014,23/04/2019,,Lucas Dias,,Centro Sportivo Alagoano (AL)
+32,23/01/1987,2019/04/25,,esquerdo,175,41417,21/01/2019,0.8,Carlinhos,14,Centro Sportivo Alagoano (AL)
+32,02/11/1986,2019/04/25,,esquerdo,174,73786,17/03/2019,0.75,Pablo Armero,,Centro Sportivo Alagoano (AL)
+32,01/04/1987,2019/04/25,31.12.2019,esquerdo,173,187099,20/01/2016,0.7,Rafinha,6,Centro Sportivo Alagoano (AL)
+28,28/08/1990,2019/04/25,,esquerdo,184,373712,01/01/2019,0.05,Pedro Rosa,,Centro Sportivo Alagoano (AL)
+32,13/12/1986,2019/04/25,31.12.2019,direito,172,59930,11/02/2019,2.25,Apodi,2,Centro Sportivo Alagoano (AL)
+31,15/03/1988,2019/04/25,31.12.2019,direito,183,539221,25/12/2016,0.7,Celsinho,22,Centro Sportivo Alagoano (AL)
+30,01/05/1988,2019/04/25,,direito,175,225686,01/01/2019,0.6,Amaral,5,Centro Sportivo Alagoano (AL)
+28,13/05/1990,2019/04/25,31.12.2019,direito,185,237621,05/03/2019,0.5,Naldo,21,Centro Sportivo Alagoano (AL)
+22,03/06/1996,2019/04/25,,,,539224,11/01/2019,0.3,Dawhan,8,Centro Sportivo Alagoano (AL)
+29,10/11/1989,2019/04/25,,direito,181,272042,28/11/2017,0.05,Mazinho,,Centro Sportivo Alagoano (AL)
+25,28/02/1994,2019/04/25,,,,546894,01/01/2019,0.05,Mauro Silva,15,Centro Sportivo Alagoano (AL)
+25,18/03/1994,2019/04/25,,direito,189,348267,15/02/2019,0.4,Bruno Ramires,14,Centro Sportivo Alagoano (AL)
+32,24/01/1987,2019/04/25,,esquerdo,180,45318,28/03/2019,0.45,Cristian Maidana,,Centro Sportivo Alagoano (AL)
+22,15/04/1997,2019/04/25,31.12.2019,direito,171,312666,01/01/2019,0.9,Matheus Sávio,10,Centro Sportivo Alagoano (AL)
+30,09/06/1988,2019/04/25,31.12.2019,direito,171,147440,01/01/2017,0.9,Didira,19,Centro Sportivo Alagoano (AL)
+32,21/05/1986,2019/04/25,31.12.2019,ambos,157,74119,22/03/2019,0.7,Madson,,Centro Sportivo Alagoano (AL)
+25,09/03/1994,2019/04/25,,direito,183,236772,06/08/2018,0.3,Jhon Cley,18,Centro Sportivo Alagoano (AL)
+21,20/02/1998,2019/04/25,,,,642675,08/01/2019,0.05,Lucca Mota,,Centro Sportivo Alagoano (AL)
+27,20/09/1991,2019/04/25,,direito,175,241309,01/01/2019,0.5,Hiago,7,Centro Sportivo Alagoano (AL)
+27,14/05/1991,2019/04/25,31.12.2019,direito,167,148690,08/02/2019,0.5,Andrés Escobar,21,Centro Sportivo Alagoano (AL)
+21,21/04/1998,2019/04/25,,,,592350,01/01/2018,0.05,Victor Paraíba,16,Centro Sportivo Alagoano (AL)
+23,21/07/1995,2019/04/25,31.12.2019,direito,178,513882,25/02/2019,0.9,Robinho,,Centro Sportivo Alagoano (AL)
+24,28/04/1994,2019/04/25,,direito,172,347381,05/02/2018,0.3,Yago,,Centro Sportivo Alagoano (AL)
+23,20/09/1995,2019/04/25,,,,547688,01/01/2019,0.05,Lohan,9,Centro Sportivo Alagoano (AL)
+31,04/09/1987,2019/04/25,30.06.2020,direito,184,225381,01/01/2019,0.8,Patrick Fabiano,99,Centro Sportivo Alagoano (AL)
+29,16/06/1989,2019/04/25,,direito,184,238367,08/02/2019,0.2,Cassiano,20,Centro Sportivo Alagoano (AL)
+20,12/12/1998,2019/04/25,,,,604094,07/08/2018,0.05,Daniel,,Centro Sportivo Alagoano (AL)
+29,16/07/1989,2019/04/25,,direito,191,98930,24/01/2019,0.5,Vladimir,89,Avaí Futebol Clube (SC)
+29,15/06/1989,2019/04/25,,direito,194,532752,01/01/2019,0.3,Lucas Frigeri,1,Avaí Futebol Clube (SC)
+21,13/01/1998,2019/04/25,,direito,187,595125,,0.05,Léo Lopes,13,Avaí Futebol Clube (SC)
+36,06/02/1983,2019/04/25,31.12.2019,direito,192,85965,22/01/2019,0.05,Glédson,83,Avaí Futebol Clube (SC)
+35,11/11/1983,2019/04/25,,direito,180,18445,16/08/2016,0.7,Betão,3,Avaí Futebol Clube (SC)
+36,21/10/1982,2019/04/25,,direito,197,54132,23/05/2018,0.5,Marquinhos,33,Avaí Futebol Clube (SC)
+24,18/08/1994,2019/04/25,,ambos,184,181784,01/01/2019,0.5,Matheus Barbosa,94,Avaí Futebol Clube (SC)
+21,18/11/1997,2019/04/25,,direito,189,561457,01/01/2018,0.05,Gustavo Alcino,15,Avaí Futebol Clube (SC)
+21,17/09/1997,2019/04/25,,direito,187,606281,10/08/2018,0.05,Eduardo Kunde,63,Avaí Futebol Clube (SC)
+26,29/12/1992,2019/04/25,31.12.2019,direito,184,550227,19/02/2019,,Ricardo Thalheimer,14,Avaí Futebol Clube (SC)
+20,18/05/1998,2019/04/25,,direito,187,653342,03/01/2019,,Nuno,17,Avaí Futebol Clube (SC)
+26,06/06/1992,2019/04/25,,esquerdo,183,250841,30/08/2018,0.4,Igor Fernandes,,Avaí Futebol Clube (SC)
+30,05/05/1988,2019/04/25,,esquerdo,170,411562,23/04/2019,0.15,Paulinho,,Avaí Futebol Clube (SC)
+24,15/05/1994,2019/04/25,31.12.2019,direito,184,277713,04/01/2019,0.9,Alex Silva,2,Avaí Futebol Clube (SC)
+26,20/08/1992,2019/04/25,,direito,176,612161,01/01/2019,0.1,Iury,22,Avaí Futebol Clube (SC)
+28,17/02/1991,2019/04/25,06.06.2020,direito,172,132002,20/03/2019,0.65,Jonny Mosquera,5,Avaí Futebol Clube (SC)
+21,14/04/1998,2019/04/25,,direito,183,643195,03/01/2019,0.05,Lucas Falcão,75,Avaí Futebol Clube (SC)
+29,07/06/1989,2019/04/25,,,,667197,16/04/2019,,Luanderson,,Avaí Futebol Clube (SC)
+19,22/05/1999,2019/04/25,,direito,182,653343,03/01/2019,,Marcinho,55,Avaí Futebol Clube (SC)
+19,21/04/2000,2019/04/25,30.6.2019,direito,180,527394,01/06/2017,0.9,Luan Pereira,21,Avaí Futebol Clube (SC)
+21,06/03/1998,2019/04/25,,direito,183,653346,,,Wesley Soares,98,Avaí Futebol Clube (SC)
+32,05/08/1986,2019/04/25,,esquerdo,184,177545,08/01/2019,0.3,Julinho,26,Avaí Futebol Clube (SC)
+26,05/02/1993,2019/04/25,31.12.2019,direito,180,214312,03/01/2019,0.8,Pedro Castro,7,Avaí Futebol Clube (SC)
+28,04/05/1990,2019/04/25,31.12.2019,direito,169,519854,03/01/2019,0.7,João Paulo,19,Avaí Futebol Clube (SC)
+37,18/02/1982,2019/04/25,,esquerdo,176,34332,12/02/2019,0.5,Douglas,10,Avaí Futebol Clube (SC)
+32,06/08/1986,2019/04/25,,esquerdo,187,39711,03/01/2018,0.3,André Moritz,30,Avaí Futebol Clube (SC)
+25,28/01/1994,2019/04/25,,esquerdo,175,299596,01/01/2019,0.2,Gegê,20,Avaí Futebol Clube (SC)
+21,31/03/1998,2019/04/25,,ambos,183,643196,03/01/2019,0.05,Dudu,31,Avaí Futebol Clube (SC)
+20,11/05/1998,2019/04/25,,esquerdo,184,601011,01/01/2018,0.05,Caio Paulista,70,Avaí Futebol Clube (SC)
+20,21/02/1999,2019/04/25,,,,665989,,,Jô,,Avaí Futebol Clube (SC)
+21,10/06/1997,2019/04/25,31.12.2019,direito,187,592345,03/01/2019,0.9,Getulio,99,Avaí Futebol Clube (SC)
+29,15/09/1989,2019/04/25,,direito,191,490613,01/01/2019,0.2,Daniel Amorim,28,Avaí Futebol Clube (SC)
+21,07/09/1997,2019/04/25,31.12.2019,direito,169,515068,01/01/2017,0.2,Lourenço,97,Avaí Futebol Clube (SC)
+30,14/10/1988,2019/04/25,,direito,177,157979,14/08/2018,0.1,Jones Carioca,8,Avaí Futebol Clube (SC)
+22,27/10/1996,2019/04/25,,direito,177,553870,01/01/2019,0.05,Gabriel Lima,77,Avaí Futebol Clube (SC)
+22,17/07/1996,2019/04/25,,,,650998,08/02/2019,,Feliciano Brizuela,11,Avaí Futebol Clube (SC)
